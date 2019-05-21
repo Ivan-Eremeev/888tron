@@ -1,0 +1,292 @@
+fairness	Juego limpio
+how_to_play	Cómo jugar
+best_mode	Apuestas hechas
+total_won	Total ganado
+bet_amount	Cantidad de la apuesta
+pls_select_sector	Por favor, seleccione Sector
+pls_login_to	Por favor, inicie sesión en el
+spin	GIRAR
+time	Time
+block	Bloquear
+player	Jugador
+prediction	Predicción
+result	Resultado
+bet	Apuesta
+payout	Pagar
+fairness_text	Los números ganadores son aleatorios y no son conocidos por adelantado. Generador de números Randon basado en el bloque de hash TRON y operado por contrato inteligente en la red TRON. Usted puede usar la identificación de apuesta y el número de bloque para verificar los números ganadores.
+bet_id	Id de la apuesta:
+block_number	Número de bloque:
+result_2	Resultado:
+send	Enviar
+referrals	Referencias
+referrals_text	¡Sea recompensado sólo por las recomendaciones a tus amigos! ¡Disfruta las recompensas de toda la vida por las recomendaciones a tus amigos! Recibe el 0,2% de todas sus APUESTAS. Todas las recompensas se envían automáticamente a través de nuestros contratos inteligentes. ¡Solo copia el enlace y compártelo con todos tus amigos! ¡Disfruta las recompensas de toda la vida por las recomendaciones a tus amigos! Recibe el 0,2% de todas sus apuestas. Todas las recompensas se envían automáticamente a través de nuestros contratos inteligentes. ¡Solo copia el enlace y compártelo con todos tus amigos! El costo para crear un enlace de referencia es 8.88 TRX y menos de 1 tarifa de transacción de TRX. Puedes crear nuevos enlaces de referencia tantas veces como desee. El viejo reemplazará automáticamente.
+how_1	1. Asegúrese de tener una billetera TRONLink. Obtener más información cómo crear uno, <a href="https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec" target="_blank">click here</a>. Para jugar en los teléfonos móviles, por favor, usen: <a href="https://mathwallet.org/" target="_blank">Math Wallet</a>, <a href="https://tronwallet.me/" target="_blank">TronWallet</a> o <a href="https://www.huobiwallet.com/" target="_blank">HuobiWallet</a>.
+how_2	2. Para jugar debe poseer TRX, la criptomoneda subyacente que alimenta la red TRON.
+how_3	3. Establezca su CANTIDAD DE LA APUESTA. Esta es la cantidad de TRX que apostarás.
+how_4	4. Seleccione el SECTOR.
+how_5	5. Haga clic en GIRAR para colocar su apuesta. Los contratos inteligentes generarán aleatoriamente un número de sector.
+how_6	6. Si el número de sector es igual a su predicción, entonces GANAS! Pago = CANTIDAD DE LA APUESTA * SECTOR.
+how_7	¿Todavía usted tiene preguntas? ¡Únase a nuestro  <a href="https://t.me/tron888" target="_blank"> telegram group</a> y con gusto le ayudamos! 
+network_err	Error de red
+tsc_err	Tron Smart Contract no está disponible ahora. Por favor, intente mas tarde.
+need_tron	Necesita TRONLink
+tron_text	Por favor, inicie la sesión en su billetera TRONLink. Si no tiene instalada la billetera TRONLink, <a href="https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec" target="_blank"> descargue la extensión de Chrome. </a>  Disponible solo usando el navegador Chrome.
+wagered	Wagered
+balance	Balance
+my_bets	My Bets
+all_bets	All Bets
+high_rollers	High Rollers
+rare_wins	Rare Wins
+history	History
+money	Dinero
+poker_dice	Poker Dice
+crypto_slots	Crypto Slots
+dividends	Los dividendos
+soon	pronto
+play	empezar
+to_mine	TRX para minar 1 Token 888
+stage	Escenario:
+next_stage	Siguiente etapa:
+available_dividends	Dividendos disponibles
+total_of	Un total de
+frozen_across	está congelado en toda la red - Recibirá
+available	Disponible
+withdrawn	Retirado
+freeze	Congelar
+frozen	Congelado
+unfreeze	Descongelar
+wtithdraw_text	Por favor ingrese a su billetera TRONLink. Si no tiene instalada la billetera TRONLink, visite <a href="http://u6.gg/gmc5D" target="_blank">http://u6.gg/gmc5D</a> y descargue la extensión de Chrome. (TRONbet solo está disponible usando el navegador Chrome por el momento)
+freezing	Congelación
+freezing_text	1. Para recibir dividendos, los tokens 888 deben ser congelado hasta el final del nivel y descongelarse después de terminar el nivel. <br> 2. Los dividendos se emiten solo en Tokens congelados 888. <br> 3. El número mínimo de fichas es de 888 para la congelación 1. <br> 4. Cuando los 888 Tokens se descongelan después del final del nivel, los dividendos se cargan automáticamente mediante la transacción interna del contrato inteligente. <br> 5. Si ya tiene algunos tokens congelados en su cuenta para congelar una nueva porción, la porción anterior se descongelará automáticamente, entonces la cantidad total se congela por completo. Si se han acumulado dividendos a la parte anterior de tokens, se transfieren automáticamente a la cartera del jugador con una transacción interna de contrato inteligente. <br> 6. Los procesos de congelación y descongelación de 888 Tokens requerirán varios TRX, por lo que es necesario tenerlos en su billetera cuando realice transacciones.
+withdraw	Retirar
+token_about	Sobre los 888 Token
+token_title_1	¿Qué es 888 Token y para qué se utiliza?
+token_text_1	888 Token es un token de TRC20 en la cadena de bloques de TRON. Se puede minar un total de 100,000,000 tokens 888 (para obtener información sobre cómo se distribuye el token 888, consulte nuestro documento técnico). Los titulares de 888 Token recibirán dividendos en TRX según la cantidad de 888 Tokens que posean.
+token_title_2	¿Qué es dividendos? ¿Y por qué fluctúan los dividendos?
+token_text_2	Los dividendos se distribuyen de los ingresos netos de 888TRON.com. El grupo de dividendos cambiará constantemente dependiendo de las ganancias y pérdidas de los usuarios en 888TRON.com.
+token_title_3	¿Puedo comprar 888?
+token_text_3	El 888 no se puede comprar directamente y solo se puede explotar jugando solo en 888TRON.com. En el futuro, 888 tokens estarán disponibles en DEXs y otros intercambios criptográficos.
+token_title_4	He retirado mis fichas 888, ¿dónde puedo verlas?
+token_text_4	Puedes agregar tus 888 fichas a Tron Link. Seleccione la sección Tokens y presione añadir dirección "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3". Una vez que se agregarán sus 888 tokens, puede administrarlos según su elección.
+token_title_5	Después de recibir dividendos pagados, ¿se quemarán nuestras 888 tokens?
+token_text_5	¡No! 888 tokens estarán contigo para siempre a menos que decidas intercambiarlos en un DEX. Siempre que tenga 888 tokens en su billetera, recibirá dividendos de 888TRON.com. Si la cantidad de 888 fichas que posee no cambia con el tiempo, la cantidad de dividendos que reciba se puede reducir con el tiempo.
+token_title_6	¿Cuánto vale 888 fichas en este momento? ¿Puedo cambiar mis fichas 888 ahora?
+token_text_6	Puede consultar la página "Dividendos" para encontrar información en tiempo real sobre 888. El valor de 888 dependerá de toda la plataforma y comunidad de 888TRON.com. 888 Tokens se pueden intercambiar en DEX y otros intercambios de criptografía en el futuro.
+token_title_7	How do I receive dividends on my 888 tokens?
+token_text_7	Para recibir dividendos, debe retirar sus tokens 888, luego congelarlos hasta que finalice el período de distribución de dividendos y descongelar sus tokens posteriormente. Los tokens que no se congelaron al final de cada nivel de minería no participan en la distribución de dividendos. Los dividendos serán transferidos a su cuenta automáticamente por el contrato inteligente una vez que sus 888 fichas se hayan descongelado.
+alreadyExist	Ya existen!
+copy_link	Copiar el enlace
+noMoney	No hay suficiente TRX en tu cartera.
+reward_sum	Premiar:
+cards	Dice52
+prediction	Previsión
+result	Resultado
+draw_under	La carta baja
+draw_equal	La carta igual
+draw_over	La carta alta
+payout_win	Pago:
+multiplayer	Multijugador
+win_chance	Oportunidad de ganar
+how_dice	4. Hay 52 cartas en una baraja. La carta más baja es 2, la carta más alta es A (As). El jugador elige cualquier carta de la baraja. El jugador apuesta en uno de los tres eventos: la carta siguiente - una de las 51 cartas restantes, distribuidas al azar, será MÁS, o MENOS o IGUAL en la clasificación la primera carta elegida por el jugador. Los palos importan en el juego. En el caso de adivinar el evento, se paga al jugador según el valor de la apuesta multiplicada por el coeficiente correspondiente a la carta seleccionada del jugador y el evento seleccionado para la apuesta.
+total_mined	Minado en total
+unfreezeToWithdraw	Unfreeze Tokens 888 to withdraw
+subscribe	Suscribir
+your_email	su e-mail
+still_have_questions	¿Tiene alguna pregunta?
+send_email	Envíenos un e-mail
+bet_tooltip	Las apuestas pequeñas (50-100 TRX) consumen la misma energía que las grandes (~ 0.5 TRX), pero generan menos tokens e ingresos.
+support	De apoyo
+exchange	Intercambio
+leaderboard	Leaderboard
+roadmap	Mapa vial
+roadmap_date_1	Marzo
+roadmap_text_1	añadiendo localizaciones a alemán y japonés.
+roadmap_date_2	Marzo
+roadmap_text_2	depuración de la plataforma (reduciendo el costo de las transacciones, aumentando la velocidad del procesamiento de datos de smart contratos).
+roadmap_date_3	Abril
+roadmap_text_3	el lanzamiento del nuevo juego - European Roulette.
+roadmap_date_4	Abril
+roadmap_text_4	anuncio de la creación de un ecosistema 888.
+roadmap_date_5	Mayo
+roadmap_text_5	lanzamiento del nuevo juego Black Jack.
+roadmap_date_6	Mayo
+roadmap_text_6	lanzamiento del concurso para desarrolladores con un fondo de premios de más de $100 mil.
+roadmap_date_7	Junio ​​y después
+roadmap_text_7	el lanzamiento de nuevos juegos y la integración de DAPP de otros desarrolladores en la plataforma 888.
+roadmap_date_8	Julio
+roadmap_text_8	análisis legal (la posibilidad de obtener una licencia de juego para la plataforma dapp).
+question_1	No recebí mis apuntes (ganancias)
+answer_1	Usando el número de su monedero TRX, verifique en tronscan.org - Sección de Transacciones Internas. Todos los pagos ganados recibe de esta dirección: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe
+question_2	No he recebido mis dividendos
+answer_2	Asegúrese de que sus tokens estaban bloqueados en el momento de la distribución de dividendos. Usando el número de su monedero TRX, verifique en tronscan.org - Sección de Transacciones Internas. Todos los pagos ganados recibe de esta dirección: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe
+question_3	Perdí TRX de mi balanza durante el juego
+answer_3	La plataforma 888Tron.com está completamente descentralizada y trabaja en smart contratos. Si su oferta es aceptada, se mostrará en el historia de transacciones de la cadena de bloques de Tron y puede consultarla en www.tronscan.org mediante el número de su monedera TRX en la secsión Transacciones Internas. Todos los pagos se realizan desde la dirección TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe. Las apuestas no aceptadas se devuelven al jugador automáticamente y no afectan el saldo de la monedera. En algunos casos, debido a una carga muy grande (~ 15-20 transacciones por segundo), un smart contrato puede no aceptar su oferta.
+question_4	¿Dónde puedo enocntrar la historia de mi juego?
+answer_4	Puede usar este instrumento: https://888tron.com/api/getHistory?address= - después del signo ''='' necesita ingresar el número de su monedero.
+question_5	Mi balanza no se muestra en el sitio 888TRON.com
+answer_5	Reinicie el sitio web. Después renicie su monedero o vuelva a iniciar el sesión si es necesario. Asegúrese de que su monedero trabaja en la red Mainnet. En el menú Configuración de monedero, intente cambiar el nodo de la lista existente.
+question_6	Mis tokens no estan (des)bloqueadas 
+answer_6	Asegúrese de que su monedero tenga un balance positivo (5 TRX). Cada vez que (des)bloqueas tokens, gastas energía. Después de hacer clic en el botón seleccionado, debe esperar 5-10 segundos hasta que la red Tron procese la transacción. Reinicie el sitio. Reinicie su monedero y, si es necesario, vuelva a iniciar la sesión. Asegúrese de que la cartera funciona en la red Mainnet. En el menú Configuración de monedero, intente cambiar el nodo de la lista existente.
+question_7	Mi enlace de referencia no funciona.
+answer_7	Esto significa que usted llegó al sitio 888tron.com en el enlace de referencia de otra persona y ahora su monedero está añadido a su enlace de referencia. Es imposible cambiar el enlace. Jugar en su propio enlace desde esta billetera tampoco funcionará. Por eso necesita crear otra monedora
+question_8	¿Cómo obtengo dividendos de mis 888 tokens?
+answer_8	En la sección Dividendos del sitio web 888tron.com, haga clic en el botón ''desbloquear'. Los dividendos serán acreditados a su monedora automáticamente. Asegúrese de que el balance de su billetera sea positivo (3-5 TRX). Después de desbloquear tokens, no olvide bloquearas nuevamente para participar en las siguientes rondas de distribución de dividendos.
+question_9	¿Qué debo hacer para comenzar a jugar en 888tron.com?
+answer_9	Para jugar en tu computadora, usa el explorador Chrome. Registre su TRX Wallet TronLink. Para jugar con telefonos móviles, use las siguientes carteras: <br> Math Wallet (www.mathwallet.org), <br> TronWallet (www.TronWallet.me), <br> Banko wallet (www. Bankowallet.com).
+question_10	¿Dónde puedo intercambiar mis tokens?
+answer_10	Puede intercambiar 888 tokens aquí: https://trontrade.io
+question_11	¿Cómo puedo verificar la descentralización de la plataforma?
+answer_11	www.tronscan.org <br> Dirección del token 888: TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3 - Dirección de los juegos de 888tron: TGtGhthzyLBYPUKDysXX11gRKPYVTQuMe Github: https://github.com/888tron/contracts/blob/master/Token888.sol <br>https://github.com/888tron/contracts
+troubleshooting	TroublSolución de problemaseshooting
+question_12	No puedo encontrar mis 888 tokens después de desbloquear.
+answer_12	Puede verificar todas las transacciones de tokens 888 por el número de su monedora en el sitio www.tronscan.org (sección TRC-20 Transfers section). Las entradas en la cadena de bloques reflejan todos los movimientos de los tokens y no se pueden cambiar.
+referrals_alert	La comisión se cobra para excluir la creación múltiple de enlaces de referencia por parte de bots. Los fondos de la comisión van al smart contratos para pagar los dividendos.
+question_13	Will I receive dividends every round, even if I leave 888 frozen or I have to unfreeze to get TRX? 
+answer_13	Divs will be credited to your internal 888 account automatically. There is no need to unfreeze your tokens every time. To transfer TRX on your wallet you need to unfreeze tokens.
+overview	Visión general
+buyback_pool	Fondo recomprado 888.
+buyback_text	En los próximos 3 meses, el equipo gastará el 20% de sus ingresos para re comprar los tokens.
+to_burnt	Quema de 888
+to_burnt_text	A partir del 9 de abril, cada dos semanas, el Equipo quemará el 20% del Fondo de tokens compradas.
+timer_days	Dias
+timer_hours	Horas
+timer_minutes	Minutos
+timer_seconds	Segundos
+total_bet	Total Bet
+tokens	Tokens
+buy_trx	Comprar TRX
+games	Juegos
+roulette	Ruleta
+baccarat	Baccarat
+black_Jjack	Black Jack
+poker	Poker
+to_the_moon	To the Moon
+white_paper	White Paper
+faq	FAQ
+promo	PROMO
+logo	LOGO
+banners	Banners
+facts_title	Datos importantes sobre la plataforma 888tron.com.
+fact_1	1. 888tron.com es una plataforma totalmente descentralizada basada en los contratos inteligentes de TRON blockchain.
+fact_2	2. El proceso de juego tiene lugar directamente desde el cripto monederos del usuario. Las contraseñas y el acceso a uno monedero personal no se solicitan de la plataforma 888tron y no se guardan.
+fact_3	3. Los pagos de ganancias ocurren instantáneamente en el monedero del jugador. La tasa de pago depende solo del ancho de banda de la red TRON.
+fact_4	4. En cada apuesta, el jugador recibe tokens de la plataforma 888. El propósito de tokens 888 es recibir dividendos que se acreditan cada 48 horas. Los propietarios de tokens 888 reciben el 65% de todas las ganancias de la plataforma 888tron en forma de pagos de dividendos.
+fact_5	5. La plataforma 888tron estableció un récord entre las DApp de todas las cadenas de bloques en pago. Los pagos de dividendos únicos alcanzaron más de 250M TRX, que es más de $5.8M.
+fact_6	6. 888tron contratos inteligentes y TRON blockchain mostraron un funcionamiento estable sin fallos ni errores. Durante las cargas pico, más del 40% de todas las transacciones de la cadena de bloques TRON representaron la plataforma 888tron (más de 30 transacciones por segundo)
+fact_7	7. La plataforma 888 es la única que lanzó por primera vez ranuras cripto y crea juegos descentralizados únicos.
+fact_8	8. La plataforma 888 es la ganadora del acelerador Tron Network.
+social	Social
+burnt	Burnt 888
+burnt_log	888 Burnt Log
+quantity	Quantity
+hash	Hash
+availableToWithdraw	Available to withdraw dividends:
+request_unfreeze	Request Unfreeze
+available_unfreeze	Available to Unfreeze
+unfreezable	Unfreezable
+confirm	Confirm
+all	All
+mine	Mine 888
+withdraw_text	Botón Sacar. El botón le permite retirar los dividendos acumulados de los niveles anteriores sin congelarlos / descongelarlos automáticamente transfiriéndolos instantáneamente a su billetera.
+request_text	Solicitud de descongelamiento (24).  El descongelamiento de tokens ocurre en dos etapas: primero, se solicita el número deseado de tokens a descongelar (cuando hace clic en el botón, aparece un cuadro de diálogo con la opción del número de tokens que desea descongelar).  Luego, después de 24 horas, están disponibles para descongelar, es decir, el botón Descongelar, que debe clicar para que los tokens se transfieran a su billetera.<br>El temporizador de descongelamiento de token en 24 horas se restablece y se reinicia en los siguientes casos:<br>- Si solicita un nuevo número de tokens para descongelar, sin retirar los tokens que se descongelaron por la solicitud anterior.<br>- Si decide congelar el nuevo número de tokens sin retirar los tokens que fueron descongelados por la solicitud anterior.
+withdrawable_dividends	dividendos retirados
+get_rewarded	Recibe la comisión por referido solo por recomendar a tus amigos!
+just_copy	¡Solo copia el enlace y compártelo con todos tus amigos!
+cost_to_create	El costo para crear un enlace de referencia es 8.88 TRX y menos de 1 TRX es tarifa de transacción.
+create_new_referral	Puede crear nuevos enlaces de referencia tantas veces como desee. La antigua será reemplazado automáticamente.
+referrals_text	¡Disfruta de las bonificaciónes po recomendaciónes a tus amigos! Recibe 0,2% de todas sus apuestas. Todas las bonificaciónes se envían automáticamente a través de nuestros contratos inteligentes.
+is_coming	se acerca
+start_playing	Empezar a jugar
+total_paid_out	Dividendos pagados
+lines	líneas
+install_extension	Instalar la extensión
+using_chrome	(TRONEXT solo está disponible con el navegador Chrome por este momente)
+for_developers	Para desarrolladores
+about_us	Sobre nosotros
+our_partners	Nuestros compañeros
+wallet	Monedero
+dapps_overview	Resumen de datos de Dapps
+bug_program	Programa de recompensas de errores
+careers	Carreras profesionales
+bug_program_1	El 888 programa de recompensas de errores se creó para recompensar a los usuarios que invierten su tiempo en ayudarnos a mejorar la seguridad y la funcionalidad general de nuestra plataforma. 
+bug_program_2	A través de este programa, proporcionamos una compensación monetaria por las vulnerabilidades que se descubrieron y reportaron a nuestro equipo de manera responsable.
+criteria_eligibility	Criterios de elegibilidad
+bug_program_3	Cualquier error que presente una vulnerabilidad significativa para la seguridad de nuestra plataforma o la integridad de nuestra marca, podría ser elegible para el programa.
+bug_program_4	Cualquier error que presente una vulnerabilidad significativa para la seguridad de nuestra plataforma o la integridad de nuestra marca, podría ser elegible para el programa.
+bug_program_5	<li>Código de inyección;</li><li>Ejecución remota de código;</li><li>Escalamiento de privilegios;</li><li>Bypass de autenticación;</li><li>Fuga de datos confindenciales</li>
+bugs_are_not	Errores que no son elegibles para reportar
+bug_program_6	Cualquier error o problema de seguridad que nuestro equipo no controla, no es elegible para nuestro programa de recompensas de errores. Esto incluye, pero no se limita a, lo siguiente:
+bug_program_7	<li>Script a través del sitio (XSS);</li><li>cross-site solicitud falsificación(CSRF);</li><li>Clickjacking;</li><li>Vulnerabilidades en sitios alojados por terceros, a menos que supongan una amenaza para nuestro sitio web principal;</li><li>Vulnerabilidades causadas por ataques físicos, ingeniería social, mensajes no deseados, ataques DDOS, etc.</li><li>Vulnerabilidades causadas por navegadores desactualizados o sin parchar;</li><li>Vulnerabilidades en aplicaciones de terceros que usan de la API 888.</li><li>Errores que no fueron investigados y reportados responsablemente;</li><li>Errores que ya se habìan informados a nuestro equipo (la recompensa se otorga a la primera persona que lo informó);</li><li>Problemas que no son reproducibles.</li>
+reward	recompensa
+bug_program_8	La recompensa mínima por errores elegibles es el equivalente a 100€ en TRX. Sin embargo, la compensación aumentará en función de la gravedad del problema informado.
+bug_program_9	Además de la compensación monetaria (y nuestra eterna gratitud), también puede elegir que su nombre y URL de su elección se muestren en la Сolumna de la Fama de nuestro sitio web.
+how_to_report	Cómo reportar un error
+bug_program_9	Para reportar un error, envíenos un correo electrónico a tech@888tron.com.
+bug_program_10	Su correo electrónico debe incluir la mayor cantidad de información posible sobre el error, incluida una descripción, posibles soluciones, su posible impacto y los pasos para reproducirlo o una prueba de su existencia.
+bug_program_11	No olvide incluir también su monedero TRX para el pago.
+bug_program_12	Noticia: Nos lleva 2 días de trabajo para responderle.
+investigation_and_reporting	Investigación y Reportes Responsables
+bug_program_13	888 le fomenta siempre operar dentro de los límites legales tratando de identificar posibles problemas de seguridad.
+bug_program_14	Algunas reglas generales que aseguran un proceso responsable de investigación e informe incluyen, pero no estan limitados a, los siguientes:
+bug_program_15	<li> No viole la privacidad de otros usuarios, destruya datos, interrumpa nuestros servicios, etc .; </li> <li> Diríjase a sus propias cuentas en el proceso de investigar un error; </li> <li> No apunte a nuestras medidas de seguridad física ni intente usar ingeniería social, correo no deseado, ataques de denegación de servicio distribuido (DDOS), etc .; </li> <li> Informe el error de manera responsable, y solo a 888; < / li> <li> Sea paciente mientras espera una respuesta, y no divulgue el error a nadie más. Si decide hacerlo, envíenos un aviso de antemano; </li> <li> En general, investigue e informe los errores de manera que se haga un esfuerzo razonable y con buenas intenciones para no ser perjudicial o dañino para nosotros o para nuestros usuarios. </li>
+career_1_title	Java, Scala Desarrollador
+career_1_1	888 equipos de datos profesionales creados por ingenieros de datos, científicos de datos, gerentes de economía, ingenieros de BI, analistas de negocios.
+career_1_2	Te asociarás con 888 expertos dominios y profesionales de negocios de alto nivel en las industrias de juegos y marketing en línea.
+career_1_3	El rol incluye el desarrollo de los principales módulos desde cero, trabajando con tecnologías de vanguardia.
+requirements	Requisitos:
+career_1_4	<li>2-4 years with Back-end development</li><li>B.Sc in Computer Science, Mathematics, Statistics or Engineering</li><li>2+ years of JVM based language (Java/Scala, etc..) experience</li><li>Demonstrated strength in data modeling, ETL development, and data warehousing</li><li>Experience with ETL process, real time or batch pipelines - Advantages</li>
+apply_position	Solicite una posición envíenos su currículum a
+career_2_title	Desarrollador de la solidaridad de la cadena de bloques (Ethereum, Tron)
+career_2_1	888 está buscando un desarrollador sólido que nos ayude a construir juegos únicos basados en la cadena de bloques en los contratos inteligentes de Tron y Ethereum.
+career_2_2	<li> 2-4 años con desarrollo de solidez </li> <li> Licenciatura en ciencias de la computación, matemáticas, estadística o ingeniería </li> <li> 2+ años de experiencia en el lenguaje basada en la cadena de bloques Ethereum / Tron </ li >
+career_3_title	Desarrollador frontal de JavaScript
+career_3_1	888 está buscando un desarrollador de Java script con talento para implementar nuestras ideas de diseño de juegos en la vida.
+career_3_2	<li> 2-4 años con desarrollo de Front-end </li> <li> B.Sc en Informática, Matemáticas, Estadística o Ingeniería </li> <li> 2+ años de Web Frontend (ReactJS, Angular, etc. ...) Experiencia </li> <li> Conocimiento de Flash </li> <li> Antecedentes del juego </li> <li> Capacidad para cumplir con los plazos en un entorno de equipo fuerte </li>
+career_4_title	Diseñador de marca
+career_4_1	888 está buscando un diseñador de marca visionario para ayudar a construir y desarrollar nuestro lenguaje de marca corporativa en todo el mundo.
+career_4_2	En este nuevo y emocionante rol, ¡serás responsable de desarrollar todos los aspectos de diseño de las necesidades de la marca 888 en todo el mundo!
+career_4_3	¿Entonces, quién eres?
+career_4_4	Eres un diseñador apasionado. Te gusta hacer trabajos prácticos de diseño y tienes un buen ojo para la estética visual.
+career_4_5	Eres un narrador creativo. Te gusta crear experiencias a través del diseño y no estás intimidado por el desafío de hacerlo a escala global.
+career_4_6	Eres un pensador estratégico. Entiendes que el diseño de la marca siempre debe apoyar los objetivos comerciales. Te importe el panorama general sin comprometer los detalles.
+career_4_7	Eres un operador colaborativo. Eres un emprendedor que sabe cómo navegar dentro de una gran organización y colaborar con colegas de todo el mundo.
+career_4_8	Como nuestro diseñador de marca tus obligaciónes:
+career_4_9	Activar y desarrollar el nuevo lenguaje de marca de la empresa internamente para crear un compromiso profundo con nuestros empleados.
+career_4_10	Desarrollar y ejecutir conceptos asombrosos de activación de marca para eventos, conferencias y patrocinios, que incluyen: stands, experiencias, materiales de marketing, sorteos, redes sociales, etc.
+career_4_11	Preparar informes creativos, describiendo los objetivos y expectativas del proyecto.
+career_4_12	Colaborar y trabajar estrechamente con equipos talentosos, como diseñadores, redactores, artistas de video y otros.
+career_4_13	Eres:
+career_4_14	Capaz de llevar la idea a la ejecución y guiar el proceso creativo.
+career_4_15	Organizado, orientado a los detalles y capacitado para manejar múltiples proyectos desafiantes al mismo tiempo en un entorno de trabajo acelerado.
+career_4_16	Un comunicador excepcional con fuertes habilidades verbales, escritas y de presentación en inglés.
+career_4_17	<li> 2+ años en diseño </li> <li> Aprendizaje rápido con sed de conocimiento y profundidad </li> <li> Habilidades de comunicación oral, verbal y visual fuertes </li> <li> Comunicación excepcional e interpersonal habilidades </li> <li> Personalidad ágil, adaptable y flexible </li> <li> Fluido en inglés </li>
+career_5_title	Diseñador de juegos
+career_5_1	Estamos buscando un jugador de equipo dinámico y motivado con habilidades y pasión por el diseño de juegos.
+career_5_2	Esta posición requiere un candidato creativo que tenga un balance de conocimientos de juego y orientación de gestión de producto / proyecto.
+responsibilities	Responsabilidades
+career_5_3	<li> Investigue, cree y desarrolle ideas para nuevos juegos </li> <li> Escriba especificaciones de diseño del juego, incluida la lógica del juego, ideas de diseño y maquetas </li> <li> Cumplir con los plazos, trabajar bien en tareas simultáneos </li> <li> Comprenda el comportamiento del jugador y la experiencia del usuario </li> <li> Trabaje con varios equipos interdepartamentales </li>
+career_5_4	<li> Hasta 2 años de experiencia relacionada en diseño de juegos o licenciatura en diseño de estudios relacionados </li> <li> Pasión por el mundo de los juegos </li> <li> Entender la mecánica de los juegos y los elementos del juego: arte y contenido </li> <li> Antecedentes anteriores en la ventaja de la redacción de contenidos </li> <li> Buena familiaridad con la cultura estadounidense y china - una ventaja importante </li> <li> Licenciatura en estudios de diseño industrial - ventaja </ li> <li> Capacidad para trabajar en colaboración, resolviendo problemas complejos por iniciativa propia y también en equipo </li> <li> Capacidad para comunicar ideas y teorías claramente </li> <li> Gran comunicación y habilidades interpersonales </ li >
+career_6_title	UI/UX Designer
+career_6_1	888 está buscando el próximo UI diseño Star para su producto líder en la industria de primer nivel. En esta función, usted será responsable de la experiencia del usuario, los conceptos de diseño visual y la interfaz de usuario del juego en productos y plataformas digitales.
+career_6_2	Como parte de un gran equipo, recibirás todo lo que puedas soñar de colaboradores súper amigables y creativos & amp; un fuerte enfoque en tu desarrollo, en proyectos que inspirarán la industria de los juegos. Tu mejor trabajo se acerca ...
+major_respons	Responsabilidades mayores:
+career_6_3	<li> Conceptualice, presente y ejecute sus ideas de la A a la Z. Dirija su propia creación </li> <li> Manténgase actualizado sobre los últimos desarrollos, tendencias y pensamientos dentro del diseño digital </li> <li> Cree un lúdico, mirada cohesiva e intuitivoa & amp; sentir, y crear la experiencia general del usuario para nuestros productos </li> <li> La capacidad de trabajar en un entorno dinámico, tomar decisiones rápidamente dentro de horarios ajustados </li> <li> PUEDE HACER UN ENFOQUE! </li>
+career_6_4	<li> Bueno diseño, dibujo, color, composición e ideación conceptual </li> <li> Al menos 3 años de experiencia en UI y comprensión de los directores de UI </li> <li> Excelente conocimiento de Photoshop. </ li> <li> Métodos de dibujando rápidos y la capacidad de crear wireframes correctas </li> <li> Comprensión de la tipografía </li> <li> Capacidad para cumplir con los plazos en un entorno de equipo fuerte </li> <li> Capacidad multitarea </li> <li>  Ingenioso con excelentes habilidades de seguimiento </li>
+advantage	Ventaja:
+career_6_5	<li> Conocimiento de Flash, After Effects e Illustrator </li> <li> Fondo de juego </li> <li> Siente pasión por hacer y jugar videojuegos </li>
+career_6_6	*** POR FAVOR ADJUNTE UN PORTFOLIO O UN ENLACE A UNA VERSIÓN EN LÍNEA
+career_6_7	(Nos pondremos en contacto solo con curriculums con enlaces de portafolio)
+coming_soon	se acerca
+game_overview	Descripción del Juego
+how_roulette_1	<p>La «Roulette with track» en la versión europea del juego, con un solo cero, con la característica de que tiene un campode apuestas de carrera adicional.</p><p>Los números en la rueda de la ruleta van del 0 al 36. En la rueda hay un cero.</p><p>La apuesta mínima y la apuesta máxima se indican sobre la mesa y durante el juego.</p><p>Las ganancias se pagan según la Tabla de Pagos. Para comprobar la tabla de pagos, haz clic en sobre la tecla de «Pagos».</p><p>Para ver las estadísticas del juego, haz clic en sobre la tecla de «Números». Los números «Hot» muestran los cinco números que ganan con más frecuencia en orden descendiente. Los números «Coid» muestran los cinco números que ganan con menos frecuencia. Los números grises debajo de los números «Hot» y «Coid» muestran la cantidad de veces que se ha hecho girar el número en un número fijo de turnos.</p>
+betting_process	Proceso de Apuestas
+how_roulette_2	<p>Possible places to bet are highlighted when pointed.</p><p>The bet is made when the chip is placed in the selected area.</p><p>To select a bet, click your chosen chip value and select the position on the table for your wager.</p><p>To see all versions of the bets click the highlighted arrow.</p><p>To clear all bets click the 'Cancel' button.</p><p>If the size of the bet exceeds the table limit, the bet will be adjusted automatically downwards to the largest possible sum.</p><p>To spin the ball click the 'Spin' button.</p><p>When the ball lands in the winning number, the payouts will be made according to the placed bets.</p>
+roulette_bets	Apuestas en la pista de Ruleta
+how_roulette_3	La «Roulette with track» dispone de apuestas exteriores, apuestas interiores y apuestas verbales. Todas las apuestas se diferencian en función de sus pagos. Compruebe los pagos de cada apuesta en la sección de «Pagos».
+outside_bets	APUESTAS EXTERIORES
+how_roulette_4	<p>Las apuestas exteriores pueden hacerse en secciones de doce o dieciocho números por vez.</p><p>Para hacer una apuesta externa coloque sus fichas en el sector seleccionado de la tabla.</p><p>1 to 18/19 to 36 (Even Chances)</p><p>Estas apuestas se colocan en dos grandes grupos de números. El primero incluye números del 1 al 18, el segundo, del 19 al 36. El pago es de 1:1.</p><p>Even/Odd (Even Chances)</p><p>Según las reglas de la Ruleta, estas apuestas se colocan sobre los números de grupos distinguidos por la categoría de la paridad. El pago es de 1:1.</p><p>Rojo/Negro (Even Chances)</p><p>Las apuestas se colocan según el color de los números. El pago es de 1:1.</p><p>Las apuestas exteriores pueden hacerse en secciones de doce o dieciocho números por vez.</p><p>Para hacer una apuesta externa coloque sus fichas en el sector seleccionado de la tabla.</p><p>Column</p><p>Hay tres tipos de apuesta. Cada una se coloca en los grupos que contienen 12 bolsillos. Las apuestas de columna pueden colocarse sobre una de las tres columnas sobre el tablero principal marcado como «2 to 1». El pago es de 2:1.</p><p>Dozen</p><p>Las apuestas de Dozen se colocan en 3 grupos de números marcados sobre el tablero, como los «1st 12», «2nd 12» y «3rd 12». El pago es de 2:1.</p>
+inside_bets	APUESTAS INTERIORES
+how_roulette_5	<p>Straight apuesta</p><p>La Straight apuesta puede colocarse sobre cualquier número individual sobre el tablero. El pago es de 35:1.</p><p>Split apuesta</p><p>La Split se coloca sobre dos números adyacentes situados juntos en el tablero. El pago es de 17:1.</p><p>Street apuesta</p><p>La Street apuesta se coloca sobre una fila de tres números. El pago es de 11:1.</p><p>Córner</p><p>La apuesta de esquina se coloca sobre cuatro números contiguos. El pago es de 8:1.</p><p>Six-line</p><p>La apuesta Six-line se coloca sobre seis números contiguos. El pago es de 5:1.</p>
+call_bets	APUESTAS VERBALES
+how_roulette_6	Las apuestas verbales se colocan se acuerdo con la secuencia de números en la rueda de la ruleta.
+how_roulette_7	<p>Apuesta Zero Spiel</p><p>La apuesta Zero Spiel se coloca sobre los números 15, 32, 0, 26, 3, 35, y 12. Para colocar esta apuesta se usan 4 fichas. Una ficha se coloca sobre el 26 negro con un pago de 35:1, y las 3 fichas restantes se distribuyen entre los grupos de números emparejados 0 y 3, 35 y 32,12 y 15. El pago es de 17:1.</p><p>Series 0/2/3</p><p>Esta apuesta incluye los siguientes números: 15, 32, 0, 26, 3, 35,12, 25, 2, 21,4,19, 28, 7, 29,18 y 22. Para esta apuesta se usan 9 fichas. Se distribuyen del siguiente modo:</p><p>Los números 0, 2, 3 usan dos fichas con pago de 11:1.</p><p>Los grupos de números emparejados 4 y 7,12 y 15,18 y 21,19 y 22, 32 y 35 usan una ficha por grupo (un total de 5 fichas).</p><p>El pago es de 17:1.</p><p>Los grupos de números 25, 26, 28 y 29 utilizan dos fichas. El pago es de 8:1.</p><p>Las apuestas verbales se colocan se acuerdo con la secuencia de números en la rueda de la ruleta.</p><p>Orphelins</p><p>La apuesta Orphelins utiliza los números 6, 34,17, 9, 31,14, 20 y 1. Para colocar esta apuesta se utilizan 5 fichas. Una ficha se coloca sobre el 1 negro con un pago de 35:1, y las 4 fichas restantes se distribuyen entre los grupos de números emparejados 6 y 9,14 y 17,17 y 20, 31 y 34. El pago es de 17:1. En caso de que el resultado sea 17 negro, el pago es de 35:1.</p><p>Series 5/8</p><p>La apuesta Series 5/8 se coloca en los siguientes números: 33,16, 24, 5,10, 23, 8, 30,11, 36,13, y 27. Para colocar esta apuesta se usan 6 fichas. Estas fichas se colocan en los siguientes pares de números: 5 y 8,10 y 11,13 y 16, 23 y 24, 27 y 30, 33 y 36. El pago es de 17:1.</p><p>Neighbours</p><p>La apuesta se coloca sobre un número y 4 números contiguos usando cinco fichas. El pago es de 35:1. Por ejemplo: si la apuesta se coloca sobre el 27 y gana, los números contiguos 34, 6,13, 36 también serán considerados ganadores.</p> 

@@ -1,0 +1,292 @@
+fairness	Честная игра
+how_to_play	Как играть
+best_mode	Ставок
+total_won	Всего Выиграно
+bet_amount	Сумма Ставки
+pls_select_sector	Пожалуйста, выберите сектор
+pls_login_to	Пожалуйста, войдите в
+spin	ВРАЩАТЬ
+time	Время
+block	Блок
+player	Игрок
+prediction	Прогноз
+result	Результат
+bet	Ставка
+payout	Выплата
+fairness_text	Генератор случайных числе построен на значении хеша блока Трона, который заранее никому неизвестен. Вы можете вставить адрес игрока и номер блока, в который совершена ставка, и убедиться, что полученное значение и выпавшее число совпадают.
+bet_id	Адрес Игрока:
+block_number	Номер блока:
+result_2	Результат:
+send	Отправить
+referrals	Рефералы
+referrals_text	Получите вознаграждение, просто пригласив своих друзей! Получите 0,2% от всех их СТАВОК. Все вознаграждения автоматически отправляются через наши смарт-контракты. Просто скопируйте ссылку и поделитесь ею со всеми своими друзьями! Стоимость создания реферальной ссылки 8.88 TRX и менее 1 TRX комиссия транзакции. Вы можете создавать ссылку неограниченное количество раз, при этом старая ссылка будет заменяться на новую.
+how_1	1.  Убедитесь, что у вас есть кошелек TRONLink. Для получения дополнительной информации о том, как его создать, <a href="https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec" target="_blank">нажмите сюда</a>. Для игры на мобильных устройствах используйте <a href="https://mathwallet.org/" target="_blank">Math Wallet</a>,  <a href="https://tronwallet.me/" target="_blank">TronWallet</a> или <a href="https://www.huobiwallet.com/" target="_blank">HuobiWallet</a>.
+how_2	2.  Чтобы играть, у вас должен быть TRX, это основная криптовалюта cети TRON. 
+how_3	3. Задайте Сумму Ставки. Это сумма TRX, на которую вы будете делать ставку. 
+how_4	4. Выбирите сектор.
+how_5	5.  Нажмите ВРАЩАТЬ, чтобы сделать ставку. Смарт-контракты будут случайным образом генерировать счастливое число
+how_6	6. Если номер сектора равен вашему прогнозу, то вы ВЫИГРАЕТЕ! Выплата = СТАВКА * СЕКТОР.
+how_7	Есть еще вопросы? Присоединяйтесь к нашей <a href="https://t.me/tron888" target="_blank"> телеграмм группе</a> , и мы будем рады помочь!
+network_err	Ошибка сети
+tsc_err	Tron Smart Contract сейчас недоступен. Пожалуйста, попробуйте позже.
+need_tron	Необходим TRONLink
+tron_text	Войдите в свой кошелек TRONLink. Если у вас нет кошелька TRONLink, пожалуйста <a href="https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec" target="_blank">загрузите расширение Сhrome</a>.  Доступно только для браузера Chrome.
+wagered	Сумма ставок
+balance	Баланс
+my_bets	Мои ставки
+all_bets	Все ставки
+high_rollers	Большие Ставки
+rare_wins	Редкие победы
+history	История
+money	Деньги
+poker_dice	Покер кости
+crypto_slots	Крипто слоты
+dividends	Дивиденды
+soon	скоро
+play	(Сыграйте на
+to_mine	TRX чтобы добыть 1 токен 888)
+stage	Уровень:
+next_stage	Следующий уровень:
+available_dividends	Доступные дивиденды
+total_of 	Всего
+frozen_across	замороженно в сети - вы получите
+available	Доступно
+withdrawn	Выведенно
+freeze	Заморозить
+frozen	Замороженно
+unfreeze	Разморозить
+wtithdraw_text	Пожалуйста, войдите в свой кошелек TRONLink. Если у вас не установлен кошелек TRONLink, перейдите на страницу <a href="http://u6.gg/gmc5D" target="_blank">http://u6.gg/gmc5D</a>  и загрузите расширение chrome. (TRONbet доступен только в браузере Chrome на данный момент)
+freezing	Замораживание
+freezing_text	1. Для получения дивидендов вы должны заморозить свои 888 токенов до конца уровня и разморозить их после окончания уровня. <br>2. Дивиденды будут начисляться только на те 888 токенов, которые были заморожены.<br>3. Одним из них является минимальное количество 888 токенов, которые должны быть заморожены. <br>4. Когда 888 токенов размораживаются после окончания уровня, дивиденды будут автоматически начисляться внутренней транзакцией через смарт-контракт. <br>5. Если у вас уже есть замороженные токены на вашем аккаунте при замораживании новой порции, предыдущая порция будет автоматически разморозлена, и все количество токенов будет заморожено. Если на предыдущую часть токенов были начислены дивиденды, они будут автоматически переведены на кошелек игрока посредством внутренней транзакции в рамках смарт-контракта.<br>6. Процессы замораживания и размораживания токенов 888 потребуют несколько TRX, поэтому при совершении транзакций их необходимо иметь в своем кошельке.
+withdraw	Вывести
+token_about	888 Token
+token_title_1	Что такое 888 Токен и для чего он используется? 
+token_text_1	888 Токен - это токен TRC20 на блокчейне TRON. В общей сложности может быть добыто 100 000 000 единиц 888 Токенов (для получения информации о распространении токена 888, пожалуйста, проверьте наш WhitePaper). Держателям токенов 888 будут выплачены дивиденды в TRX в зависимости от того, сколько у них 888 Токенов.
+token_title_2	Что такое дивиденды? И почему размер дивидендов изменяется?
+token_text_2	Дивиденды распределяются из чистого дохода 888TRON.com. Пул дивидендов будет постоянно изменяться в зависимости от выигрышей и проигрышей пользователей на 888TRON.com. 
+token_title_3	Можно ли купить 888 Токен? 
+token_text_3	888 Токен нельзя купить напрямую. Его можно добыть только путем игры на 888TRON.com. В будущем 888 Токен будет доступен на DEX и других крипто биржах.
+token_title_4	Я снял Токены 888, где я могу их увидеть?
+token_text_4	Токены 888 можно добавить в Tronlink. Для этого выберите раздел Токены и добавьте адрес "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3". После этого вы можете распоряжаться ими.
+token_title_5	После того, как мне будут начислены дивиденды, мои 888 токены будут сожжены?
+token_text_5	Нет, 888 Токены будут с вами навсегда, если вы не решите обменять их на крипто бирже. Пока на вашем кошельке есть 888 Токены, вы получаете дивиденды от 888TRON.com. Если количество 888 Токенов, которым вы владеете, со временем не меняется, сумма дивидендов, которые вы получаете, может со временем уменьшаться.
+token_title_6	Сколько стоит 888 Токен прямо сейчас? Могу ли я обменять 888 Токены сейчас? 
+token_text_6	Вы можете проверить вкладку «Дивиденды», чтобы найти информацию в реальном времени о 888 Токене.  Цена 888 Токена будет зависеть от всей платформы 888TRON.com и сообщества. 888 Токены можно обменять на крипто бирже в будущем. 
+token_title_7	Нужно ли мне снимать 888 Токены? 
+token_text_7	Для получения дивидендов 888 Токены необходимо снять, затем заморозить до окончания периода распределения дивидендов и разморозить после его окончания. Не замороженные токены не получают дивидендов. Дивиденды переводятся автоматически на ваш счет смартконтрактом после разморозки.
+alreadyExist	Уже существует!
+copy_link	Копировать ссылку
+noMoney	Недастаточно TRX на вашем кошельке.
+reward_sum	Вознаграждение:
+cards	Dice52
+prediction	Прогноз
+result	Результат
+draw_under	Карта младше
+draw_equal	Карта равна
+draw_over	Карта старше
+payout_win	Выплата:
+multiplayer	Множитель:
+win_chance	Шанс
+how_dice	4. В колоде 52 карты. Младшая карта 2, старшая карта А (туз). Игрок выбирает любую карту из колоды. Игрок делает ставку на одно из трех событий: следующая карта - одна из 52 карт, розданная случайным образом, будет БОЛЬШЕ, или МЕНЬШЕ или РАВНА по рангу первой карте, выбранной игроком. Масти в игре значение имеют. В случае угадывания события, игроку производится выплата из расчета величины Ставки, умноженной на коэффициент, соответствующий выбранной игроком карте и выбранного события для ставки.
+total_mined	Всего добыто
+unfreezeToWithdraw	Unfreeze Tokens 888 to withdraw
+subscribe	Подписаться
+your_email	Ваш e-mail
+still_have_questions	У вас остались вопросы? 
+send_email	Отправьте нам e-mail:
+bet_tooltip	Маленькие ставки (50-100 ТРХ) потребляют такую же энергию как и большие (~0,5 TRX), но приносят меньше токенов и доход.
+support	Техническая поддержка:
+exchange	Биржа
+leaderboard	Leaderboard
+roadmap	Дорожная карта
+roadmap_date_1	Март
+roadmap_text_1	добавление локализаций на немецкий и японский языки.
+roadmap_date_2	Март
+roadmap_text_2	отладка платформы (сокращение стоимости транзакций, увеличение скорости обработки данных смарт контрактами).
+roadmap_date_3	Апрель
+roadmap_text_3	запуск новой игры Европейская рулетка.
+roadmap_date_4	Апрель
+roadmap_text_4	анонс о создании экосистемы 888.
+roadmap_date_5	Май
+roadmap_text_5	 запуск новой игры Black Jack.
+roadmap_date_6	Май
+roadmap_text_6	запуск соревнования для разработчиков с призовым фондом более 100 т. USD.
+roadmap_date_7	Июнь и далее
+roadmap_text_7	запуск новых игр и интеграция DAPPs сторонних разработчиков на платформе 888. 
+roadmap_date_8	Июль
+roadmap_text_8	правовой анализ (возможность получения гемблинговой лицензии для дапп платформы).
+question_1	Я не получил выплату по сыгравшей ставке.
+answer_1	Выплаты можно проверить на сайте www.tronscan.org по номеру Вашего ТРХ кошелька во вкладке InternalTransactions. Выплаты выигрышей производятся со следующего адреса: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe
+question_2	Я не получил дивиденды.
+answer_2	Убедитесь, что ваши токены 888 были заморожены в момент выплаты дивидендов. Выплаты можно проверить на сайте www.tronscan.org по номеру Вашего ТРХ кошелька во вкладке Internal Transactions. Выплаты дивидендов производятся со следующего адреса: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe
+question_3	У меня пропали ТРХ с баланса во время игры.
+answer_3	Платформа 888Tron.com полностью децентрализованная, т.е. работает на смарт контрактах. Если Ваша ставка была принята она будет отображена в истории транзакции блокчейна Tron и ее можно проверить на сайте www.tronscan.org по номеру Вашего ТРХ кошелька во вкладке Internal Transactions. Все выплаты производятся с адреса TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe. Не принятые ставки возвращаются игроку автоматически и не влияют на баланс кошелька. В некоторых случаях ввиду очень большой нагрузки (~ 15-20 транзакций в секунду) смарт контракт может не принять Вашу ставку.
+question_4	Где я могу проверить лог историю своей игры?
+answer_4	Вы можете воспользоваться данным инструментом: https://888tron.com/api/getHistory?address= - после знака = нужно ввести номер вашего кошелька.
+question_5	Баланс моего кошелька сегодня не отображается на сайте 888tron.com.
+answer_5	Перезагрузите сайт. Перезагрузите ваш кошелек и, в случае необходимости, войдите в него снова. Убедитесь, что кошелек работает в сети Mainnet. В меню Настройки кошелька поробуйте сменить ноду из имеющегося списка.
+question_6	Мои токены 888 не замораживаются (размораживаются).
+answer_6	Убедитесь, что баланс Вашего кошелька положительный (5 ТРХ). Каждый раз, когда Вы замораживаете или размораживаете токены вы расходуете энергию. После нажатия на выбранную кнопку необходимо подождать 5-10 секунд пока сеть Трона обработает транзакцию. Перезагрузите сайт. Перезагрузите ваш кошелек и, в случае необходимости, войдите в него снова. Убедитесь, что кошелек работает в сети Mainnet. В меню Настройки кошелька поробуйте сменить ноду из имеющегося списка.
+question_7	Моя реферальная ссылка не работает.
+answer_7	Это означает, что вы пришли на сайт 888tron.com по реферальной ссылке другого человека и теперь Ваш кошелек привязан к его реферальной ссылке. Отвязать данный кошелек от ссылки друга невозможно. Играть по собственной ссылке с данного кошелька тоже не получится.
+question_8	Как мне получить дивиденды с моих 888 токенов?
+answer_8	В разделе Дивиденды на сайте 888tron.com нажмите кнопку Разморозить. Дивиденды будут зачислены на Ваш кошелек автоматически. Убедитесь, что Ваш баланс кошелька положительный (3-5 ТРХ). После разморозки токенов не забудьте их снова заморозить, чтобы участвовать в следующих раундах распределения дивидендов.
+question_9	Что нужно сделать, чтобы начать играть на 888tron.com?
+answer_9	Для игры на компьютере используйте браузер Chrome. Зарегистрируйте ТРХ кошелек TronLink.<br> Для игры с мобильных устройств используйте следующие кошельки:<br> Math Wallet (www. mathwallet.org), <br>TronWallet (www.TronWallet.me),<br> Banko wallet (www.bankowallet.com).
+question_10	Where I can trade my tokens?
+answer_10	You can trade 888 tokens here: https://trontrade.io
+question_11	Как мне проверить децентрализованность платформы?
+answer_11	www.tronscan.org<br> Адрес токена 888: TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3<br> Адрес игр 888tron: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe<br> Github:https://github.com/888tron/contracts/blob/master/Token888.sol <br>https://github.com/888tron/contracts
+troubleshooting	Устранение неполадок
+question_12	Я не могу найти свои токены 888 после разморозки.
+answer_12	Вы можете проверить все транзакции токенов 888 по номеру своего кошелька на сайте www.tronscan.org (раздел TRC-20 Transfers section). Записи в блокчейне отражают все перемещения токенов и не могут быть изменены. 
+referrals_alert	Комиссия взимается в целях исключения множественного создания реферальных ссылок ботами. Средства от комиссии идут на смарт контракт выплаты дивидендов.
+question_13	Мне нужно каждый раунд размораживать токены для получения дивидендов или можно оставить токены замороженными и ТРХ будут начисляться автоматически? 
+answer_13	Дивиденды начисляются на ваш баланс внутри платформы 888 автоматически. Нет необходимости каждый раз размораживать токены. Для начисления ТРХ на баланс своего кошелька токены необходимо разморозить.
+overview	Обзор
+buyback_pool	888 Buy Back Pool
+buyback_text	15% of the Team’s income is spent to buy back 888 tokens for the next 3 months. 
+to_burnt	888 to be Burnt
+to_burnt_text	Starting April 9 every two weeks 20% of the Buy Back Pool tokens will be burned.
+timer_days	Дней
+timer_hours	Часов
+timer_minutes	Минут
+timer_seconds	Секунд
+total_bet	Общая ставка
+tokens	Токенов
+buy_trx	Купить TRX
+games	Игры
+roulette	Рулетка
+baccarat	Baccarat
+black_Jjack	Black Jack
+poker	Poker
+to_the_moon	To the Moon
+white_paper	White Paper
+faq	FAQ
+promo	PROMO
+logo	LOGO
+banners	Banners
+facts_title	Важные факты о платформе 888tron.com
+fact_1	1. 888tron.com – это полностью децентрализованная платформа построенная на смарт контрактах блокчейна TRON
+fact_2	2. Игра происходит напрямую с криптокошелька пользователя. Пароли и доступы к персональному кошельку платформой 888tron не запрашиваются и не сохраняются.
+fact_3	3. Выплаты выигрышей происходят мгновенно на кошелек игрока. Скорость выплаты зависит  только от пропускной способности сети TRON
+fact_4	4. При каждой ставке игрок получает токены платформы 888. Назначение токена 888 – это получение дивидендов, которые начисляются каждые 48 часов. Владельцы токенов 888 получают 65% от всей прибыли платформы 888tron   в виде дивидендных выплат.
+fact_5	5. Платформа 888tron  установила рекорд среди DApp  всех блокчейнов по размеру выплат. Единоразовая выплаты дивидендов достигали сумму более 250М  trx, что в долларовом эквиваленте составило сумму более 5.8М долларов США
+fact_6	6. Смарт контракты платформы 888tron и блокчейн TRON показали стабильную работу без сбоев и ошибок. Во время пиковых нагрузок более 40% всех транзакций блокчейна TRON приходилось на платформу 888tron (более 30 транзакций в секунду)
+fact_7	7. Платформа 888 единственная кто первой запустила крипто слоты и делает уникальные децентрализованные игры. 
+fact_8	8. Платформа 888 является победителем акселератора Tron Network.
+social	Social
+burnt	Burnt 888
+burnt_log	888 Burnt Log
+quantity	Quantity
+hash	Hash
+availableToWithdraw	Available to withdraw dividends:
+request_unfreeze	Request Unfreeze
+available_unfreeze	Available to Unfreeze
+unfreezable	Unfreezable
+confirm	Confirm
+all	All
+mine	Mine 888
+withdraw_text	Кнопка Снять (Withdraw). Кнопка дает возможность снять накопленные дивиденды с предыдущих уровней без дополнительной заморозки/разморозки путем автоматического моментального перечисления их на Ваш кошелек. 
+request_text	Кнопка Запрос на разморозку (24) / Request Unfreeze (24). Разморозка токенов происходит в два этапа: сначала запрашивается желаемое количество токенов для разморозки (при нажатии на кнопку появляется диалог с выбором количества токенов, которое Вы хотите разморозить).  Затем, через 24 часа, они становятся доступны для разморозки, а именно, становится доступна для нажатия кнопка Разморозить (Unfreeze), которую нужно нажать, чтобы токены перевелись на Ваш кошелек.<br>Таймер разморозки токенов в 24 часа сбрасывается и стартует заново в следующих случаях:<br>- Если Вы запросите новое количество токенов на разморозку, не сняв токены, которые были разморожены по предыдущему запросу. <br>- Если Вы решите заморозить новое количество токенов, не сняв токены, которые были разморожены по предыдущему запросу. 
+withdrawable_dividends	Withdrawable dividends:
+get_rewarded	Get rewarded just by referring your friends!
+just_copy	Just copy the link and share it to all your friends!
+cost_to_create	The cost to create a referral link is 8.88 TRX and less than 1 TRX transaction fee.
+create_new_referral	You can create new referral links as many times as you want. The old one will be replaced automatically.
+referrals_text	Enjoy lifetime rewards just by referring your friends! Receive 0.2% of all their bets. All rewards are sent out automatically through our smart contracts.
+is_coming	Is coming
+start_playing	Start Playing
+total_paid_out	Dividends paid out
+lines	Lines
+install_extension	Install Extension
+using_chrome	(TRONEXT is only available using Chrome browser for the time being)
+for_developers	For Developers
+about_us	About Us
+our_partners	Our Partners
+wallet	Wallet
+dapps_overview	Dapps data overview
+bug_program	Bug Bounty Program
+careers	Careers
+bug_program_1	888 Bug Bounty Program was created to reward the users that invest their time into helping us improve the security and the overall functionality of our platform.
+bug_program_2	Through this program, we provide monetary compensation for vulnerabilities that were discovered and reported to our team in a responsible manner.
+criteria_eligibility	Criteria for eligibility
+bug_program_3	Any bug that poses a significant vulnerability, either to the security of our platform or the integrity of our brand, could be eligible for the program.
+bug_program_4	Any bug that poses a significant vulnerability, either to the security of our platform or the integrity of our brand, could be eligible for the program.
+bug_program_5	<li>Code Injection;</li><li>Remote Code Execution;</li><li>Privilege Escalation;</li><li>Authentication Bypass;</li><li>Leakage of Sensitive Data.</li>
+bugs_are_not	Bugs that are not eligible for reporting
+bug_program_6	Any bug or security issue that our team has no control over is not eligible for our bug bounty program. This includes, but is not limited to, the following:
+bug_program_7	<li>Cross-Site Scripting (XSS);</li><li>Cross-Site Request Forgery (CSRF);</li><li>Clickjacking;</li><li>Vulnerabilities on sites hosted by third parties, unless they pose a threat to our main website;</li><li>Vulnerabilities caused by physical attacks, social engineering, spamming, DDOS attack, etc;</li><li>Vulnerabilities caused by outdated or unpatched browsers;</li><li>Vulnerabilities in third-party applications that make use of 888 API.</li><li>Bugs that were not investigated and reported responsibly;</li><li>Bugs that were already reported to our team (the reward goes to the first person who reported it);</li><li>Issues that aren't reproducible.</li>
+reward	Reward
+bug_program_8	The minimum reward for eligible bugs is the equivalent of €100 in TRX. However, the compensation will increase based on the gravity of the issue reported.
+bug_program_9	Besides the monetary compensation (and our eternal gratitude), you can also choose to have your name and an URL of your choice displayed on our website’s Wall of Fame section.
+how_to_report	How to Report a Bug
+bug_program_9	To report a bug, send us an email at tech@888tron.com.
+bug_program_10	Your email should include as much information as possible about the bug, including a description, possible solutions, its potential impact, and steps to reproduce it or proof of its existence.
+bug_program_11	Don’t forget to also include your TRX address for payment.
+bug_program_12	Notice: It may take us up to 2 business days to get back to you.
+investigation_and_reporting	Responsible Investigation and Reporting
+bug_program_13	888 encourages you to always operate within legal boundaries when trying to identify potential security issues.
+bug_program_14	Some general rules that ensure a responsible investigation and reporting process include, but are not limited to, the following:
+bug_program_15	<li>Don't violate the privacy of other users, destroy data, disrupt our services, etc.;</li><li>Only target your own accounts in the process of investigating a bug;</li><li>Don't target our physical security measures or attempt to use social engineering, spam, distributed denial of service (DDOS) attacks, etc.;</li><li>Report the bug in a responsible manner, and only to 888;</li><li>Be patient while waiting for a reply, and do not disclose the bug to anyone else. If you decide to do so, give us a notice beforehand;</li><li>In general, please investigate and report bugs in a way that makes a reasonable, good-intentioned effort not to be disruptive or harmful to us or to our users.</li>
+career_1_title	Java, Scala Developer
+career_1_1	888 professional data teams built from data engineers, data scientists, economy managers, BI engineers, Business analysts.
+career_1_2	You will partner with 888 domain experts and top-level business professionals in the gaming and online marketing industries.
+career_1_3	The role includes development of major modules from scratch, working with cutting edge technologies.
+requirements	Requirements:
+career_1_4	<li>2-4 years with Back-end development</li><li>B.Sc in Computer Science, Mathematics, Statistics or Engineering</li><li>2+ years of JVM based language (Java/Scala, etc..) experience</li><li>Demonstrated strength in data modeling, ETL development, and data warehousing</li><li>Experience with ETL process, real time or batch pipelines - Advantages</li>
+apply_position	Apply for position be sending us your resume at
+career_2_title	Solidity block chain developer (Ethereum, Tron)
+career_2_1	888 is looking for solidity developer to help us build unique block chain based games on Tron and Ethereum smart contracts.
+career_2_2	<li>2-4 years with Solidity development</li><li>B.Sc in Computer Science, Mathematics, Statistics or Engineering</li><li>2+ years of Ethereum/Tron blockchain based language experience</li>
+career_3_title	Java script front end developer
+career_3_1	888 is looking for a Talented Java script developer to implement our game design ideas into life.
+career_3_2	<li>2-4 years with Front-end development</li><li>B.Sc in Computer Science, Mathematics, Statistics or Engineering</li><li>2+ years of Web Frontend (ReactJS, Angular, etc...) experience</li><li>Knowledge of Flash</li><li>Gaming background</li><li>Ability to meet deadlines in a strong team environment</li>
+career_4_title	Brand Designer
+career_4_1	888 is looking for a visionary brand designer to help build and develop our corporate brand language worldwide.
+career_4_2	In this exciting new role, you’ll be responsible for developing all the design aspects of 888 brand needs around the world!
+career_4_3	So who are you?
+career_4_4	You’re a passionate designer. You love doing hands-on design work and you have a keen eye for visual aesthetics.
+career_4_5	You’re a creative storyteller. You love creating experiences through design and you’re not daunted by the challenge of doing it at a global scale.
+career_4_6	You’re a strategic thinker. You understand that brand design must always support the business objectives. You’re driven by the bigger picture without ever compromising on the details.
+career_4_7	You’re a collaborative operator. You’re a self-starter who knows how to navigate within a large organization and collaborate with colleagues around the world.
+career_4_8	As our brand designer, you will:
+career_4_9	Activate and develop the company’s new brand language internally to create deep engagement with our employees.
+career_4_10	Develop and execute amazing brand activation concepts for events, conferences and sponsorships - including: booths, experiences, marketing materials, giveaways, social media, etc.
+career_4_11	Prepare creative briefs, outlining project goals and expectations.
+career_4_12	Collaborate and work closely with talented teams, such as designers, copywriters, video artists and others.
+career_4_13	You are:
+career_4_14	Capable of taking idea to execution and guiding the creative process.
+career_4_15	Organized, detail-oriented and skilled at juggling multiple challenging projects at once in a fast-paced work environment.
+career_4_16	An exceptional communicator with strong verbal, written and presentation skills in English.
+career_4_17	<li>2+ years in design</li><li>Fast learner with a thirst for knowledge and depth</li><li>Strong written, verbal and visual communications skills</li><li>Exceptional communication and interpersonal skills </li><li>Agile, adaptable and flexible personality</li><li>Fluent in English</li>
+career_5_title	Game Designer
+career_5_1	We’re looking for a dynamic, self-motivated team player with skills and passion for Game Designing.
+career_5_2	This position requires a creative candidate who has a balance of gaming know-how and product/project management orientation.
+responsibilities	Responsibilities
+career_5_3	<li>Research, create and develop ideas for new games</li><li>Write game design specifications including game logic, design ideas and mock-ups</li><li>Meet deadlines, work well under pressure and on simultaneous tasks</li><li>Understand player behavior and user experience </li><li>Work with multiple cross-departmental teams</li>
+career_5_4	<li>Up to 2 years of related experience in game designing or bachelor of game designing related studies</li><li>Passion for the gaming world </li><li>Understanding game mechanics and game-play elements- art and content </li><li>Former background in content writing- advantage </li><li>Good familiarity with the American and Chineese culture – a major advantage</li><li>Bachelor of Industrial Design studies- advantage </li><li>Ability to work collaboratively, solving complex problems on own initiative and also in a team</li><li>Ability to communicate ideas and theories clearly </li><li>Great communication and interpersonal skills</li>
+career_6_title	UI/UX Designer
+career_6_1	888 is looking for the next rising UI design Star for its top-notch, industry leading product In this role, you will be responsible for user experience, visual design concepts and Game user interface across digital products and platforms
+career_6_2	As part of a great team you will receive everything you can dream of from super friendly and creative co-workers &amp; a strong focus on your development, to projects that will inspire the hole Gaming Industry Your best work is yet to come…
+major_respons	Major Responsibilities:
+career_6_3	<li>Conceptualize, present and execute your ideas from A to Z. Lead your own creation</li><li>Stay updated on the latest developments, trends and thinking within Digital Design</li><li>Create a playful, intuitive cohesive look &amp; feel, and overall user experience for our products</li><li>The ability to work in a dynamic environment quick decision making within tight schedules</li><li>CAN DO APPROACH!</li>
+career_6_4	<li>Strong design, drawing, Color, composition, and conceptual ideation abilities</li><li>At least 3 years of experience in UI and understanding of UI principals</li><li>Excellent knowledge of Photoshop.</li><li>Quick sketching methods and the ability to create accurate wireframes</li><li>Strong understanding of typography</li><li>Ability to meet deadlines in a strong team environment</li><li>Strong multi-tasking ability</li><li>Resourceful with excellent follow-through skills</li>
+advantage	Advantage:
+career_6_5	<li>Knowledge of Flash, After effects and Illustrator </li><li>Gaming background</li><li>Have a passion for making and playing video games</li>
+career_6_6	*** PLEASE ATTACH A PORTFOLIO OR A LINK TO AN ONLINE VERSION
+career_6_7	(We will contact only resumes with portfolio links)
+coming_soon	coming soon
+game_overview	Основные правила
+how_roulette_1	<p>"Рулетка с треком" основывается на правилах традиционной рулетки с дополнительной возможностью делать устные ставки на треке.</p><p>В игре "Рулетка с треком" используются ячейки с нумерацией от 0 до 36. В игре присутствует только один сектор зеро.</p><p>Лимиты ставок указаны на табличке, установленной на игровом столе.</p><p>Все выигрыши выплачиваются согласно таблице выплат. Чтобы просмотреть таблицу, нажмите "Таблица выплат".</p><p>Чтобы просмотреть статистику игры, нажмите "Номера". В "Hot" указаны 5 чисел, которые выигрывали чаще всего по нисходящей. В "Cold" указаны 5 чисел, которые выпадали реже всего. Числа, выделенные серым цветом, которые находятся под "Hot" и "Cold" числами, показывают количество выпадений данного номера за конкретное количество раундов.</p>
+betting_process	Игровой процесс
+how_roulette_2	<p>Секторы для ставок подсвечиваются при наведении курсора.</p><p>Чтобы сделать ставку, поставьте фишки на номер или сектор.</p><p>Чтобы выбрать ставку, кликните по фишке с соответствующим номером.</p><p>Чтобы увидеть все возможные ставки, нажмите зелёную стрелку в поле с фишками.</p><p>Чтобы убрать ставки, нажмите кнопку "Отмена".</p><p>Если ставка превышает лимиты стола, она будет автоматически отрегулирована согласно максимально возможной ставке, доступной в игре.</p><p>Чтобы начать игру, нажмите кнопку "Старт".</p><p>Результат раунда станет известен, когда игровой мяч приземлится в одной из ячеек колеса. Выигрыши будут выплачены согласно ставкам игрока.</p>
+roulette_bets	Виды ставок
+how_roulette_3	В игре "Рулетка с треком" игрок может делать внешние, внутренние и устные ставки. Каждая ставка имеет свои выплаты. Для того, чтобы узнать выплаты по ставке, нажмите "Таблица выплат".
+outside_bets	ВНЕШНИЕ СТАВКИ
+how_roulette_4	<p>Внешние ставки размещаются на секциях, состоящих из 12 или 18 чисел. Чтобы сделать внешнюю ставку, поставьте фишки на один из секторов вне основного поля.</p><p>от 1 до 18/от 19 до 36 (Even Chances)</p><p>Ставка делается на две группы чисел. Первая группа включает в себя числа от 1 до 18, вторая - от 19 до 36. Выплата составит 1:1.</p><p>Even/Odd (Even Chances)</p><p>Ставка делается на 2 группы чисел, первая из которых включает в себя все чётные числа, вторая - все нечётные. Выплата составит 1:1.</p><p>Red/Black (Even Chances)</p><p>Ставки делаются на группы чисел согласно цвету ячеек. Выплата составит 1:1.</p><p>Column</p><p>В игре "Рулетка с треком" можно сделать ставку на три группы чисел, расположенных на игровом поле в виде колонн.</p><p>Каждая из групп включает ставку на 12 чисел. На игровом поле ставки на колонны отмечены как "2 to 1". Выплата составит 2:1.</p><p>Dozen</p><p>В игре "Рулетка с треком" доступны три варианта ставок на дюжины (Dozen). На поле они отмечены как "1st 12", "2nd 12" и "3rd 12". Выплата составит 2:1.</p>
+inside_bets	INSIDE BETS
+how_roulette_5	<p>Straight bet</p><p>Straight bet may be placed on any single number on the table layout. Payout is 35:1.</p><p>Split bet</p><p>Split bet is placed on two adjacent numbers located together on the table layout. Payout is 17:1.</p><p>Street bet</p><p>Street bet is placed on a row of three numbers. Payout is 11:1.</p><p>Corner</p><p>Corner bet is placed on four adjoining numbers. Payout is 8:1.</p><p>Six-line</p><p>Six-line bet is placed on six adjoining numbers. Payout is 5:1.</p>
+call_bets	УСТНЫЕ СТАВКИ
+how_roulette_6	В игре "Рулетка с треком" у игрока есть возможность сделать ставку на группу чисел, согласно их расположению на игровом колесе.
+how_roulette_7	<p>Zero Spiel</p><p>Ставка Zero Spiel делается на группу чисел 15, 32, 0, 26, 3, 35 и 12. Для ставки используются 4 фишки. Одна фишка ставится на ячейку 26 с выплатой 35:1, остальные три - на пары чисел 0 и 3, 35 и 32,12 и 15. Выплата по ним составит 17:1.</p><p>Series 0/2/3</p><p>Ставка делается на сектор, который включает числа 15, 32, 0, 26, 3, 35,12, 25, 2, 21,4,19, 28, 7, 29,18 и 22.</p><p>Для данной ставки игрок использует 9 фишек, которые располагаются следующим образом:</p><p>Две фишки на номера 0, 2, 3 с выплатами 11:1.</p><p>По фишке на пары чисел 4 и 7,12 и 15,18 и 21,19 и 22, 32 и 35 (всего 5 фишек) с выплатами 17:1.</p><p>Две фишки на номера 25, 26, 28 и 29 с выплатами 8:1.</p><p>Orphelins</p><p>Сектор Orphelins охватывает номера: 6, 34,17, 9, 31,14, 20 и 1. Для ставки на сектор Orphelins используется 5 фишек.</p><p>Одна фишка ставится на номер 1 с выплатой 35:1. Оставшиеся 4 фишки распределяются по одной фишке для ставки на пары чисел: 6 и 9,14 и 17,17 и 20, 31 и 34. Выплата составит 17:1. Если в данном случае выигрывает номер 17, выплатасоставит 35:1.</p><p>Series 5/8</p><p>Ставка Series 5/8 делается на следующие числа: 33,16, 24, 5,10, 23, 8, 30,11, 36,13 и 27.</p><p>Для ставки используется 6 фишек по одной на каждую пару чисел: 5 и 8,10 и 11,13 и 16, 23 и 24, 27 и 30, 33 и 36. Выплаты по ставке 17:1.</p><p>Neighbours</p><p>Для ставки используется 5 фишек: одна на число, на которое игрок делает ставку, а оставшиеся фишки ставятся на 4 числа, расположенных справа и слева от выбранного игроком номера. Выплата по ставке 35:1.</p><p>Пример: если ставка была сделана на число 27, числа 34, 6,13 и 36 также будут считаться выигрышными.</p>

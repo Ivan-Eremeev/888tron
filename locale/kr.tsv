@@ -1,0 +1,292 @@
+fairness	게임의 공정성
+how_to_play	게임 방법
+best_mode	베팅이 접수되었습니다
+total_won	당첨
+bet_amount	베팅 금액
+pls_select_sector	섹터를 선택하여 주십시오.
+pls_login_to	로그인 하여 주십시오.
+spin	스핀
+time	Time
+block	블록
+player	플레이어
+prediction	예측
+result	결과
+bet	베팅
+payout	지불금액
+fairness_text	당첨된 번호는 랜덤이며  Tron블록의 해시를 기반으로하고 사전에 알려지지 않습니다. TRON.network에서 베팅 ID 및 블록넘버를 이용하여 당첨 번호를 확인하실 수 있습니다.
+bet_id	베팅 아이디 :
+block_number	블록 넘버 :
+result_2	결과 :
+send	보내기
+referrals	추천
+referrals_text	친구추천 이벤트! 전체 베팅금에서 2%에 상당한 장려금을 얻을수 있습니다. 모든 장려금은 스마트 계약을 통해 자동으로 전송됩니다.링크를 복사하여 모든 친구들한테 공유하십시오! 추천링크를 생성하는 비용은 8.88TRX이고 거래수수료는 1TRX이하입니다. 이전 링크가 새로운 링크로 바뀌기전까지 링크는 무제한으로 만들수 있습니다.
+how_1	1. TRON Link 지갑을 확인하십시오. 만드는 방법에 대한 자세한 내용은  <a href="https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec" target="_blank">여기를 클릭하여  </a> 를 참조하십시오. 모바일 장치에서 플레이하려면 <a href="https://mathwallet.org/" target="_blank">Math Wallet</a> 이나 <a href="https://tronwallet.me/" target="_blank">TronWallet</a> 또는 <a href="https://www.huobiwallet.com/" target="_blank">HuobiWallet</a> 을 사용하십시요.
+how_2	2. 플레이하기 위해서는 TRX를 갖고 있어야 합니다. TRX는 TRON에서 기본적인 암호 화폐입니다.
+how_3	3. 귀하의 베팅금액을 설정하십시오. 이 베팅금액을 TRX금액입니다.
+how_4	4. 섹터를 선택하여 주십시오.
+how_5	5. SPIN을 클릭하시고 베팅하십시오. 스마트 계약들은 랜덤으로 섹터 넘버를 생성할 것 입니다.
+how_6	6. 섹터 넘버가 귀하의 예측과 같게되면 귀하는 이기게 되는 것입니다! 페이아웃 = 베팅 금액 * 섹터.
+how_7	문의상항이 있으시면 고객센터로 연락주십시오! <a href="https://t.me/tron888" target="_blank"> 
+network_err	네트워크 에러입니다.
+tsc_err	TRON 스마트계약은 현재 사용이 불가능합니다. 나중에 다시 시도하여 주십시오.
+need_tron	TRONLink가 필요합니다.
+tron_text	TRON 지갑에 로그인하십시오. TRONLink 금고가 없으신 경우에는 Chrome 확장 프로그램을 https://goo.gl/Yb4NRU 방문하여 다운로드하십시오. (Chrome 브라우저만 사용할 수 있습니다)
+wagered	배당받은
+balance	밸런스
+my_bets	나의 베팅
+all_bets	모든 베팅
+high_rollers	하이 롤러
+rare_wins	멋진 승리
+history	기록
+money	돈
+poker_dice	포커다이스
+crypto_slots	암호화된 슬롯
+dividends	배당금
+soon	곧
+play	플레이
+to_mine	마이닝에서 1개의 토큰888에 해당되는 TRX 
+stage	스테이지
+next_stage	다음 스테이지
+available_dividends	유효한 배당금
+total_of 	총
+frozen_across	받을수 있는 부분은 네트워크에 동결되였습니다
+available	유효한
+withdrawn	철회
+freeze	동결
+frozen	동결된
+unfreeze	동결취소
+wtithdraw_text	TRONLink지갑에 로그인하십시오.TRONLink지갑을 만들지 않았을 경우 아래 링크를 열어보세요<a href=" http://u6.gg/gmc5D" target="_blank"></a> http://u6.gg/gmc5D 에서 크롬확장을 다운하세요 . (TRONbet는 유일한 사용가능한 크롬 브라우즈입니다.)
+freezing	동결되고 있습니다
+freezing_text	1.배당을 받으려면 레벨이 끝나기 전에 888토큰을 동결하고 레벨이 끝난 후에는 동결을 해제해야 합니다.<br>2.배당은 동결된 888토큰에 수량에서만 발생합니다.<br>3.동결할수 있는 최소 888토큰의 개수는 한개입니다.<br>4.레벨이 종료된 후 888토큰이 동결 해제되면 스마트 계약을 통해 내부거래에 의해 배당금이 자동으로 발생하게 됩니다.<br>5.이미 동결된 토큰이 있을때 추가 동결할경우 기존 동결은 자동으로 해제되고 전체 수량이 다시 동결됩니다.토큰으로 인한 배당금이 발생될시 내부 스마트계약거래로 플레이어의 지갑에 자동이체됩니다.<br>6. 888토큰을 동결 및 동결해제를 할때에는 소량의 TRX를 필요로하기때문에 TRON을 지갑안에 가지고 있어야합니다.
+withdraw	인출
+token_about	888토큰에 관하여
+token_title_1	888토큰 및 용도?
+token_text_1	888토큰은 TRON블록체인의 TRC20기반 토큰 입니다. 총 1억개의 888토큰을 얻을수 있습니다. (888토큰의 배분에 관한 정보는 백서를 통해 확인하십시오). 토큰888의 소유자들은 갖고 있는 토큰888의 개수에 따라 배당금TRX을 지급받을수 있습니다.
+token_title_2	배당금이란? 배당금은 왜 변동될까요?
+token_text_2	배당금은 888TRON.com의 순수익에서 배분됩니다. 배당금은 888TRON.com에서 사용자의 승패에 따라 지속적으로 변동됩니다.
+token_title_3	888토큰을 구입할수 있을까요?
+token_text_3	888토큰은 직접 구매할수 없고 오직888TRON.com에서 게임을 해야 얻을수 있습니다. 888토큰은 DEX 및 기타 보안거래소에서 사용할수 있습니다.
+token_title_4	이미 철회한 상태에서 888토큰을 어디에서 볼수 있을까요?
+token_text_4	888토큰은 Tronlink에서 추가할수 있습니다. 토큰 섹션을 선택하고 "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3" 에서 정보를 입력하신뒤 처분할수 있습니다.
+token_title_5	배당금을 받은후 나의 888토큰은 없어질까요?
+token_text_5	아닙니다. DEX에서 교환을 결정하지 않는 한 888토큰은 영구적으로 유지됩니다.지갑에 888토큰이 있으면 888TRON.com에서 배당금을 받게 됩니다. 소유하고 있는 888토큰 개수는 시간에 따라 변하지 않고 받는 배당금은 시간에 따라 줄어들게 됩니다. 
+token_title_6	현재 토큰888의 가치는? 현재 토큰888을 교화가능여부는?
+token_text_6	"배당금"탭에서 888토큰에 관한 실시간 정보를 체크할수 있습니다. 888토큰의 가치는 전체 플랫폼 888TRON.com과 커뮤니티와 상관됩니다. 888토큰은 DEX 및 기타 보안거래소에서 교환할수 있습니다.
+token_title_7	토큰888의 배당금은 어떻게 받습니까?
+token_text_7	배당금을 받으려면 888토큰을 동결한후 배당분배가 끝난뒤 동결을 해제해야 합니다.동결을 해제하지 않은 토큰은 배당금을 받지 못합니다.배당금은 동결해제뒤 귀하의 계정으로 자동이체됩니다. 
+alreadyExist	이미 존재합니다
+copy_link	링크를 복사하십시오
+noMoney	지갑에 있는 TRX가 부족합니다
+reward_sum	배당금
+cards	Dice52
+prediction	예측
+result	결과
+draw_under	작은 카드
+draw_equal	같은 카드
+draw_over	높은 카드
+payout_win	지불
+multiplayer	멀티플레이어
+win_chance	찬스
+how_dice	4. 데크에 52장의 카드가 있습니다. 가장 낮은 랭크는 2이고 높은 랭크는A(에이스)입니다. 플레이어는 데크에서 카드를 선택하고 세가지중 하나를 선택하여 베팅합니다. 다음카드는 52장 카드중 무작위로 하나가 선택될것이며 이는 첫번째 카드보다 등급이 높거나 낮거나 같을수도 잇습니다. 게임에서 짝을이룬패가 중요합니다. 플레이어가 결과를 추측하면 카드와 플레이어가 선택한 결과에따라 확률을 곱한비율에 의해 베팅금액이 지불될것입니다.
+total_mined	전체 수입
+unfreezeToWithdraw	Unfreeze Tokens 888 to withdraw
+subscribe	구독하기
+your_email	당신의 이메일
+still_have_questions	질문이 더 있으신가요?
+send_email	이메일 보내주세요
+bet_tooltip	작은 투자금 (50-100 TPH)은 큰 투자금 (~ 0.5 TRX)과 동일한 에너지를 소비하지만 적은 토큰과 적은 수입을 받습니다.
+support	지원
+exchange	거래소
+leaderboard	리더보드
+roadmap	로드맵
+roadmap_date_1	3월
+roadmap_text_1	독일어 및 일본어 웹 사이트 번역 추가
+roadmap_date_2	3월
+roadmap_text_2	일반적인 플랫폼 개선 및 최적화(속도 및 거래 비용).
+roadmap_date_3	4월
+roadmap_text_3	유럽 룰렛 게임 출시.
+roadmap_date_4	4월
+roadmap_text_4	888 생태계 개념과 개발 성공의 첫 단계 제시.
+roadmap_date_5	5월
+roadmap_text_5	블랙 잭 게임 출시.
+roadmap_date_6	5월
+roadmap_text_6	최우수 개발자 팀이 100000달러 이상의 상금을 수여
+roadmap_date_7	6월의 시작
+roadmap_text_7	Afirst games and DAPPs integration created by outsource dev.teams.
+roadmap_date_8	7월
+roadmap_text_8	법률연구(목표: 888tron.com 라이센스)
+question_1	내기에서 돈을 받지 못 했다.
+answer_1	 tronscan.org의 TRX 지갑 번호 확인 - 내부 거래 섹션 모든 당첨금은 이 주소에서 온다: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe.
+question_2	배당금을 받지 못했습니다
+answer_2	배포하는 순간에 당신의 토큰이 동결되었는지 확인한다.  tronscan.org의 TRX 지갑 번호 확인 - 내부 거래 섹션 모든 분할 지불은 이 주소에서 온다: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe.
+question_3	나는 경기 중에 TRX를 잃어버렸다.
+answer_3	888Tron.com은 완전히 분산된 플랫폼입니다. 만약 당신의 내기가 스마트 계약에의해 수락된경우 TRON블록의 거래 기록에 표시되며 tronscan.org - 내부 거래 섹션에서 쉽게 확인할 수 있다는 것을 의미합니다. 모든 당첨금이 이 주소에서 나옵니다: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe. 경우에 따라 매우 큰 부하(초당 15-20회)로 인해 스마트 계약이 귀하의 내기를 거부할수도 있습니다 이때 베팅은 자동으로 반환되며 지갑 잔액에 영향을 미치지 않습니다.
+question_4	게임 기록을 확인하는 방법
+answer_4	당신은 당신의 게임 일지를 확인하기 위해 이 도구를 사용할 수 있다.  https://888tron.com/api/getHistory?address= - 다음에 지갑 번호를 기입한다.
+question_5	지갑이 웹 사이트에 표시되지 않습니다.
+answer_5	웹 사이트를 새로고침하십시오. 지갑을 다시 로드해보고 필요한 경우 다시 로그인하십시오. 지갑이 메인넷 네트워크에서 작동하는지 확인하세요. 지갑 설정 메뉴에서 사용 가능한 목록에서 노드를 변경하십시오.
+question_6	888 토큰이 동결되지 않습니다 (동결해제).
+answer_6	지갑 계좌에 적어도 5TRX이 있는지 확인하십시오. 토큰을 동결하거나 동결을 해제할 때마다 에너지와 대역폭이 필요합니다. 5초에서 10초정도 기다리세요. 만약 아무 일도 없다면 웹사이트를 새로고침을해보고 필요한 경우 지갑을 새로 로드하거나 다시 로그인하십시오. 메인넷 아래에서 지갑이 제대로 작동하는지 확인해보고 지갑 설정 메뉴에 사용 가능한 목록에서 다른 사용자 지정 노드를 선택하십시오.
+question_7	내 추천 링크가 작동하지 않습니다.
+answer_7	다른 추천링크로 888tron.com에 초대받은경우 당신의 지갑은 그 추천링크에 묶여있게되어 자신의 추천 링크를 사용할 수 없습니다.
+question_8	888 토큰에서 배당금을 어떻게 받을 수 있습니까?
+answer_8	배당은 이틀간격으로 들어오며 배당시간이 완료되면(한국시각 오후9시이후) 888tron.com내의 배당탭에서 동결해제 버튼을 누르면 배당금이 즉시 들어올것입니다. 이때 지갑안에 소량의(최소3 TRX)트론이 있는지 확인하십시오. 배당을 받은후 다음 배당을 위해 다시 동결하는걸 잊지 말아야합니다.
+question_9	888TRON.COM에서 배팅을 하려면 어떻게 해야합니까?
+answer_9	컴퓨터에서 배팅을 하려면 크롬브라우져가 있어야 합니다. 크롬브라우져에서 플러그인 TRONLink를 추가하고 지갑을 등록하십시오.<br> 모바일에서 하려면 <br> Math Wallet (www. mathwallet.org)<br>TronWallet (www.TronWallet.me),<br> Banko wallet (www.bankowallet.com). 
+question_10	어디서 내 토큰을 교환할 수 있습니까?
+answer_10	https://trontrade.io 에서 888토큰을 거래할수있습니다
+question_11	어디에서 당신의 토큰 주소와 플랫폼에 대한 정보를 확인할 수 있는가?
+answer_11	www.tronscan.org <br>Token address: TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3<br> 888tron game smart contract address: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe <br>Github:https://github.com/888tron/contracts/blob/master/Token888.sol <br>https://github.com/888tron/contracts
+troubleshooting	문제 해결
+question_12	동결해제 후에 지갑에서 888토큰을 찾을수 없습니다.
+answer_12	tronscan.org(TRC-20 Transfers 섹션)에서 토큰이 저장된 지갑번호를 입력하면 토큰 전송을 모두 확인할 수 있습니다. 모든 토큰 거래는 블록체인에 보관되며 위조하거나 분실할 수 없습니다.
+referrals_alert	봇을 통해 추천링크를 만드는것을 방지하기위해 수수료가 발생합니다. 그 수수료는 토큰홀더들에게 스마트컨트렉트를 통해서 배분될 것입니다.
+question_13	Will I receive dividends every round, even if I leave 888 frozen or I have to unfreeze to get TRX? 
+answer_13	Divs will be credited to your internal 888 account automatically. There is no need to unfreeze your tokens every time. To transfer TRX on your wallet you need to unfreeze tokens.
+overview	개요
+buyback_pool	888 바이백 풀
+buyback_text	팀 수입의 15%는 향후 3개월 동안 888 토큰을 다시 구매하는데 쓰인다. 
+to_burnt	888토큰 소각
+to_burnt_text	4월 9일부터 2주마다 바이백 풀에 쌓인 888토큰의 20%가 소각 될 것이다.
+timer_days	일
+timer_hours	시간
+timer_minutes	분
+timer_seconds	초
+total_bet	Total Bet
+tokens	토큰
+buy_trx	사다 TRX
+games	계략
+roulette	룰렛
+baccarat	Baccarat
+black_Jjack	Black Jack
+poker	Poker
+to_the_moon	To the Moon
+white_paper	White Paper
+faq	FAQ
+promo	PROMO
+logo	LOGO
+banners	Banners
+facts_title	888tron.com 플랫폼에 대한 중요한 정보를 제공합니다.
+fact_1	1. 888tron.com은 TRON 블록체인 스마트 계약을 기반으로 구축된 완전히 분산된 플랫폼입니다.
+fact_2	2. 플레이는 사용자의 암호지갑에서 직접 이루어집니다. 개인 지갑에 대한 비밀번호는 888tron 플랫폼에서 요청하지 않으며 저장되지 않습니다.
+fact_3	3. 선수 지갑으로 즉시 보상금이 발송됩니다. 지불 속도는 네트워크 대역폭 TRON에 의존합니다.
+fact_4	4. 플레이어는 매 배팅마다 888토큰을 받습니다. 888 토큰의 목적은 48시간마다 배당금을 받는 것입니다. 888토큰 소유자는 888tron 플랫폼의 모든 이익의 65%를 배당금 지급 형태로 받습니다.
+fact_5	5. 888tron 플랫폼은 모든 블록체인의 DApp 중 최고 기록을 세웠습니다. 일회성 배당금 지급액은 250M TRX 이상으로, 5.8M 이상입니다.
+fact_6	6. 888tron 스마트 계약과 TRON 블록체인은 실패와 오류 없이 안정적인 작동을 보였습니다. 최대 부하중 전체 TRON 블록체인 트랜잭션의 40% 이상이 888tron 플랫폼에 속했습니다(초당 30개 이상의 트랜잭션).
+fact_7	7. 888 플랫폼은 암호화 슬롯을 처음 시작하고 고유한 분산형 게임을 만드는 유일한 플랫폼입니다.
+fact_8	8. 888 플랫폼이 Tron Network Accelerator의 우승자입니다.
+social	Social
+burnt	Burnt 888
+burnt_log	888 Burnt Log
+quantity	Quantity
+hash	Hash
+availableToWithdraw	Available to withdraw dividends:
+request_unfreeze	Request Unfreeze
+available_unfreeze	Available to Unfreeze
+unfreezable	Unfreezable
+confirm	Confirm
+all	All
+mine	Mine 888
+withdraw_text	Withdraw (인출)버튼은 자동으로 즉시 지갑으로 전송하여 추가 동결/해제 없이 이전 레벨의 누적 배당금을 인출할 수 있습니다.
+request_text	Unfreeze(24시간)를 요청합니다. 토큰의 동결 해제는 두 단계로 이루어집니다. 첫 번째 단계 - 동결 해제할 토큰 수를 요청합니다(버튼을 클릭하면 동결 해제할 토큰 수를 선택할 수 있는 대화 상자가 표시됩니다).  그런 다음 24시간이 지나면 동결을 해제할 수 있게 됩니다. 즉, 클릭해야 하는 Unfreeze 버튼을 클릭할 수 있게 되어 토큰이 지갑으로 전송됩니다.<br>24시간 후 토큰의 정지 해제 타이머는 다음과 같은 경우 재설정 및 재시작됩니다.<br>- 이전 요청에 의해 동결 해제된 토큰을 회수하지 않고 새 토큰 개수를 요청하면 됩니다.<br>- 이전 요청에 의해 동결되지 않은 토큰을 회수하지 않고 새로운 토큰 수를 동결하기로 결정한 경우입니다.
+withdrawable_dividends	인출할 수 있는_배당금입니다.
+get_rewarded	친구들을 소개하면 보상을받을 수 있습니다!
+just_copy	링크를 복사해서 여러분의 모든 친구들에게 공유하세요!
+cost_to_create	추천 링크를 만드는 데 드는 비용은 8.88TRX이고, 트랜잭션 수수료는 1 TRX 입니다.
+create_new_referral	원하는만큼 새로운 추천 링크를 만들 수 있습니다. 이전 버전은 자동으로 교체됩니다.
+referrals_text	친구 추천으로 평생 보상을 즐기십시오! 베팅 금액의 0.2 %를받습니다. 모든 보상은 스마트 계약을 통해 자동으로 발송됩니다.
+is_coming	곧 나올것이다.
+start_playing	재생 시작
+total_paid_out	배당금이 지급 되었습니다.
+lines	줄
+install_extension	확장 프로그램 설치
+using_chrome	(TRONEXT는 당분간만 크롬 브라우저를 사용하여 사용할 수 있습니다.)
+for_developers	개발자용입니다.
+about_us	회사 소개
+our_partners	우리의 파트너들
+wallet	지갑
+dapps_overview	 Dapps 데이터 개요
+bug_program	버그 현상금 프로그램
+careers	채용 정보
+bug_program_1	888 버그 현상금 프로그램은 당사 플랫폼의 보안 및 전반적인 기능을 개선하는 데 시간을 투자하는 사용자에게 보상하기 위해 만들어졌습니다.
+bug_program_2	본 프로그램을 통해, 팀에게 발견되어 보고한 취약점에 대해, 책임 있는 방법으로 금전적인 보상을 실시하고 있습니다.
+criteria_eligibility	자격 기준
+bug_program_3	플랫폼의 보안이나 브랜드의 무결성에 심각한 취약성을 야기하는 모든 버그는 프로그램에 적합할 수 있습니다.
+bug_program_4	플랫폼의 보안이나 브랜드의 무결성에 심각한 취약성을 야기하는 모든 버그는 프로그램에 적합할 수 있습니다.
+bug_program_5	<li> 코드 주입 : </ li> <li> 원격 코드 실행, </ li> <li> 권한 에스컬레이션, </ li> / li>
+bugs_are_not	보고 대상이 아닌 버그
+bug_program_6	저희 팀이 통제할 수 없는 버그나 보안 문제는 저희 버그 현상금 프로그램에 적합하지 않습니다. 여기에 포함되는 내용은 다음과 같습니다.
+bug_program_7	<li> 교차 사이트 스크립팅 (XSS), </ li> <li> 교차 사이트 요청 위조 (CSRF), <li> 클릭 재킹, </ li> <li> 타사에서 호스팅하는 사이트의 취약점 </ li> <li> 낡은 또는 패치되지 않은 브라우저로 인해 발생하는 취약점 </ li> <li> 주요 웹 사이트에 위협이되지 않는 한 </ li> <li> 물리적 공격, 사회 공학, 스팸 및 DDoS 공격 등으로 인한 취약점 < / li> <li> 888 API를 사용하는 타사 응용 프로그램의 취약점 </ li> <li> 조사되지 않고 책임감있게보고 된 버그 </ li> <li> 이미 Google 팀에보고 된 버그 (사례금은보고 한 첫 번째 사람에게 전달됩니다) </ li> <li> 재현 할 수없는 문제 </ li>
+reward	보상
+bug_program_8	적격 버그에 대한 최소 보상은 TRX의 100유로에 상당합니다. 다만, 보고된 사안의 중대성에 따라 보상이 늘어날 것으로 보입니다.
+bug_program_9	금전적 인 보상 (그리고 영원한 감사) 외에도 웹 사이트의 명예의 전당 섹션에 자신의 이름과 URL을 표시하도록 선택할 수 있습니다.
+how_to_report	 버그를보고하는 방법
+bug_program_9	버그를 보고하려면 tech@888tron.com으로 전자 메일을 보내주십시오.
+bug_program_10	전자 메일에는 버그에 대한 설명, 가능한 해결책, 잠재적인 영향, 버그 복제 단계 또는 존재 증명 등 가능한 많은 정보가 포함되어야 합니다.
+bug_program_11	보상을 위해 TRX 주소를 포함하는 것을 잊지 마십시오.
+bug_program_12	공지 : 귀하에게 연락하는 데 최대 2 일 (영업일 기준) 소요될 수 있습니다.
+investigation_and_reporting	책임 있는 조사 및 보고입니다.
+bug_program_13	888은 잠재적 보안 문제를 확인하려고 할 때 법적 경계 내에서 항상 운영하도록 권장합니다.
+bug_program_14	책임 있는 조사 및 보고 프로세스를 보장하는 일부 일반 규칙은 다음을 포함합니다.
+bug_program_15	<li>다른 사용자의 프라이버시를 침해하거나, 데이터를 파괴하거나, 서비스를 방해하지 않습니다.; </liverely> 버그를 조사하는 과정에서 자신의 계정만 대상으로 합니다;</liverli> 우리의 물리적 보안 수단을 타겟으로 삼거나 사회공학, 스팸, DDOS(분산 서비스 거부) 공격 등을 이용하려 하지 마십시오.; </liverely> 책임감 있는 방법으로 버그를 보고하고, 888에만 보고합니다; </liverely> 답변을 기다리는 동안 인내심을 가지며, 그 버그를 다른 사람에게 공개하지 마십시오. 그렇게 결정하시면 미리 통지해 주십시오.일반적으로 버그를 조사하여 당사나 사용자에게 지장을 주거나 해가 되지 않도록 합리적이고 선의의 노력을 기울이는 방식으로 보고해 주십시오.</li>다.
+career_1_title	자바, 스칼라 개발자
+career_1_1	888의 전문 데이터 팀이 데이터 엔지니어, 데이터 과학자, 경제 관리자, BI 엔지니어, 비즈니스 분석가로부터 구축되었습니다.
+career_1_2	게임 및 온라인 마케팅 업계에서 888 의 도메인 전문가 및 최상위 비즈니스 전문가와 파트너 관계를 맺습니다.
+career_1_3	이 역할에는 최첨단 기술을 사용하는 주요 모듈의 개발이 포함됩니다.
+requirements	요구 사항은 다음과 같습니다.
+career_1_4	<li> 컴퓨터 과학, 수학, 통계 또는 공학 학사 학위 </ li> <li> 2 년 이상의 JVM 기반 언어 (Java / Scala, </ li> <li> 데이터 모델링, ETL 개발 및 데이터웨어 하우스의 강점 입증 </ li> <li> ETL 프로세스, 실시간 또는 일괄 파이프 라인 사용 경험 - 장점 </ li>
+apply_position	입사 지원서를 통해 이력서를 보내주십시오.
+career_2_title	블록 체인 개발자 (이더리움,트론)
+career_2_1	 888은 트론 및 이더리움 스마트 계약을 기반으로 고유 한 블록 체인 기반 게임을 구축 할 수 있도록 견고한 개발자를 찾고 있습니다.
+career_2_2	<li> 컴퓨터 공학, 수학, 통계 또는 공학 분야의 학사 학위 </ li> <li> 2 년 이상의 이더리움 / 트론 블록 체인 기반 언어 경험 </ li> >
+career_3_title	 자바 스크립트 프런트 엔드 개발자
+career_3_1	888은 게임 디자인 아이디어를 구현할 재능있는 자바 스크립트 개발자를 찾고 있습니다.
+career_3_2	<li> 프론트 엔드 개발로 2-4 년 </ li> <li> 컴퓨터 과학, 수학, 통계 또는 공학 학사 학위 </ li> <li> 2 년 이상의 웹 프론트 엔드 (ReactJS, Angular 등) </ li> <li> 게임 배경 </ li> <li> 강력한 팀 환경에서 마감 시간을 지킬 수있는 능력 </ li>
+career_4_title	브랜드 디자이너
+career_4_1	888은 전세계의 기업 브랜드 언어를 구축하고 개발하는 데 도움이되는 비전있는 브랜드 디자이너를 찾고 있습니다.
+career_4_2	이 흥미 진진한 새로운 역할에서 전세계 888 브랜드의 모든 디자인 측면을 개발해야 할 책임이 있습니다!
+career_4_3	그럼 당신은 누구죠?
+career_4_4	당신은 열정적인 디자이너예요. 여러분은 실제 디자인 작업을 하는 것을 좋아하고 시각적 미학에 대한 날카로운 안목을 가지고 있습니다.
+career_4_5	당신은 창의적인 이야기꾼이에요. 여러분은 디자인을 통해 경험을 창조하는 것을 좋아하며, 전 세계적인 규모의 디자인에 대한 도전에도 굴하지 않습니다.
+career_4_6	당신은 전략적 사상가입니다. 귀하는 브랜드 디자인이 항상 비즈니스 목표를 지원해야 함을 이해합니다. 세부적인 부분에 대해 타협하지 않고 더 큰 그림으로 이끌었습니다.
+career_4_7	당신은 협업 운영자입니다. 대규모 조직 내에서 탐색하고 전 세계의 동료와 공동 작업하는 방법을 알고있는 셀프 스타터입니다.
+career_4_8	우리의 브랜드 디자이너로서, 당신은 :
+career_4_9	내부적으로 회사의 새로운 브랜드 언어를 활성화 및 개발하여 직원들과의 긴밀한 관계를 구축하십시오.
+career_4_10	부스, 체험, 마케팅 자료, 경품, 소셜 미디어 등을 포함한 이벤트, 컨퍼런스 및 후원을 위한 놀라운 브랜드 활성화 개념을 개발하고 실행하십시오.
+career_4_11	프로젝트 목표와 기대치를 요약하여 창의적인 개요를 준비하십시오.
+career_4_12	디자이너, 카피라이터, 비디오 아티스트 등과 같은 재능 있는 팀과 긴밀하게 협력하고 작업하십시오.
+career_4_13	다음과 같은 경우:
+career_4_14	실행에 아이디어를 부여하고 창의적인 프로세스를 안내 할 수 있습니다.
+career_4_15	빠르게 진행되는 작업 환경에서 한 번에 여러 도전 프로젝트를 저글링 할 때 조직적이고 세부 지향적이며 숙련 된 인력입니다.
+career_4_16	영어로 말하기, 쓰기 및 발표 기술이 뛰어난 탁월한 의사 소통 자.
+career_4_17	<li> 지식과 깊이에 대한 갈증을 느낄 수있는 빠른 학습자 </ li> <li> 강력한 서면, 구두 및 시각적 의사 소통 기술 </ li> <li> 탁월한 커뮤니케이션 및 대인 관계 기술 </ li> <li> 민첩하고 적응력 있고 유연한 성격 </ li> <li> 영어로 능숙 함 </ li>
+career_5_title	게임 디자이너
+career_5_1	우리는 게임 디자인에 대한 기술과 열정을 지닌 역동적이고 자발적 인 팀 플레이어를 찾고 있습니다.
+career_5_2	이 직책은 게임 노하우와 제품/프로젝트 관리 지향의 균형을 갖춘 창의적인 후보가 필요합니다.
+responsibilities	책임
+career_5_3	<li> 새로운 게임에 대한 아이디어를 연구, 개발 및 개발 </ li> <li> 게임 논리, 디자인 아이디어 및 모형을 포함하여 게임 디자인 사양을 작성하십시오. </ li> <li> 마감일을 지키고, </ li> <li> 플레이어 행동 및 사용자 경험 이해 </ li> <li> 여러 부서 간 팀과 협력 </ li>
+career_5_4	 <li> 관련 게임을 디자인하는 게임 디자인 또는 학사 관련 경력 2 년 이내 </ li> <li> 게임 세계에 대한 열정 </ li> <li> 게임 기술 및 게임 요소 이해 - 예술 및 </ li> <li> 미국 및 중국 문화에 대한 친숙 함 - 주요 이점 </ li> <li> 산업 디자인 연구의 장점 - 이점 </ li> <li> 훌륭한 커뮤니케이션 및 대인 관계 기술 </ li> <li> 협조적으로 작업하고 자신과 팀에서 복잡한 문제를 해결할 수있는 능력 </ li> <li> 아이디어와 이론을 명확하게 전달할 수있는 능력 </ li> >
+career_6_title	 UI/UX 디자이너
+career_6_1	888은 업계 최고 수준의 제품을 위한 차세대 UI 디자인 스타를 찾고 있습니다. 이 역할에서는 디지털 제품 및 플랫폼 전반에서 사용자 경험, 시각 디자인 개념 및 게임 사용자 인터페이스를 담당하게 됩니다.
+career_6_2	 훌륭한 팀의 일원으로, 여러분은 매우 친절하고 창의적인 동료들, 그리고 여러분의 발전에 대한 강한 집중에서부터 게임 산업에 영감을 줄 프로젝트에 이르기까지 여러분이 꿈꿀 수 있는 모든 것을 받게 될 것입니다.
+major_respons	 주요 책임 :
+career_6_3	<li> A부터 Z까지 아이디어를 개념화하고 제시하고 실행합니다. 자신 만의 작품을 만들 수 있습니다. </ li> <li> 디지털 디자인 내 최신 개발, 트렌드 및 사고에 대한 최신 정보를 유지하십시오. </ li> 직관적 인 응집력있는 외관 & amp; 느낌 및 전반적인 사용자 경험 </ li> <li> 동적 인 환경에서 긴밀한 일정으로 신속하게 의사 결정을 내릴 수있는 능력 </ li> <li> 접근 가능! </ li>
+career_6_4	<li> 강력한 디자인, 드로잉, 색상, 구성 및 개념적 사고 능력 </ li> <li> UI 및 UI 사용자에 대한 이해에서 3 년 이상 경험 </ li> <li> </ li> <li> 타이포그래피에 대한 강력한 이해 </ li> <li> 강력한 팀 환경에서 기한을 지키는 능력 </ li> <li> 멀티 태스킹 능력 </ li> <li> 뛰어난 후속 스킬로 풍부한 경험 </ li>
+advantage	이점:
+career_6_5	<li> 플래시, After Effects 및 Illustrator에 대한 지식 </ li> <li> 게임 배경 </ li> <li> 비디오 게임 제작 및 재생에 대한 열정을 가지고 있습니다. </ li>
+career_6_6	*** 포트폴리오 또는 온라인 버전에 대한 링크를 클릭 하세요.
+career_6_7	(포트폴리오 링크가 있는 이력서만 연락하겠습니다.)
+coming_soon	개봉박두
+game_overview	게임 개요
+how_roulette_1	<p>"Roulette with track"은 레이스 트랙 모양의 베팅 필드가 추가된 유럽식 싱글 제로 게임 버전입니다.</p><p> 룰렛 필에는 0에서부터 36까지의 번호가 있습니다. 필에는 하나의 제로(0)가 있습니다.</p><p>최소와 최대 베팅은 테이블 위와 게임 플레이 도중에 표시됩니다.</p><p>당첨금은 배당표에 따라 지급됩니다. 배당표는 "당첨금" 버튼을 클릭하면 확인할 수 있습니다.</p><p>게임 통계를 확인하려면 •번호' 버튼을 클릭하세요. "Hot" 넘버는 가장 많이 당첨된 다섯 개의 숫자를 내림차순으로 표시합니다. "Cold" 넘버는 가장 적게 당첨된 다섯 개의 숫자를 표시합니다. "Hot" 넘버와 "Cold" 넘버 밑에 표시된 회색 숫자는 일정 횟수의 라운드에서 당첨된 횟수를 표시합니다.</p>
+betting_process	베팅 절차
+how_roulette_2	<p>베팅할 수 있는 곳은 가리켰을 때 나타납니다.</p><p>베팅은 선택한 지역에 칩을 놓으면 완료됩니다.</p><p>베팅 지역을 선택하려면 원하는 집을 고른 후, 집을 놓을 지역을 선택하면 됩니다.</p><p>모든 집의 종류를 보려면 표시된 화살표를 클릭하세요.</p><p>모든 베팅을 취소하려면 "취소" 버튼을 클릭하세요.</p><p>베팅 금액이 테이볼 베팅 한도를 넘어서면 자동으로 베팅 금액이 순차적으로 낮게 조절됩니다.</p><p>구슬을 굴리려면 "스핀" 버튼을 클릭하세요.</p><p>구슬이 당첨 번호에 들어가면, 베팅에 따라 당첨금이 지급됩니다.</p>
+roulette_bets	룰렛 트랙 위의 베팅
+how_roulette_3	Roulette with track은 outside 베팅, inside 베팅, call 베팅 지원합니다. 모든 베팅은 배당률이 다롭니다. "당첨금" 화면에서 각 베팅의 배당률을 확인하세요.
+outside_bets	OUTSIDE 베팅
+how_roulette_4	<p>Outside 베팅는 한 번에 12 또는 18개의 번호에 베팅합니다.</p><p>Outside 베팅에 베팅하려면 테이블의 선택된 지역에 칩을 놓으세요.</p><p>1에서 18까지/19에서 36까지 (같은 확률)</p><p>이 베팅은 넘버들을 두 개의 큰 그룹으로 나누어 하는 베팅입니다. 첫째 그름은 1에서 18까지를 포함하고, 둘째 그룹은 19에서 36까지를 포함합니다.</p><p>Even/Odd (Even Chances)</p><p>룰렛 규칙에 따라 이 베팅은 짝수와 홀수로 나눠진 그룹에 베팅하는 것입니다. 배당률은 1:1입니다.</p><p>레드/블랙 (Even Chances)</p><p>이 베팅은 번호의 색깔에 따라 베팅하는 것입니다. 배당률은 1:1입니다.</p><p>Column</p><p>이 베팅에는 세 개의 지역이 있습니다. 각각은 12 포켓을 포함하도록 되어있습니다. Column 베팅는 테이블 하단의 "2 to 1"이라고 표시된 3개의 Column 중 하나에 베팅합니다. 배당률은 2:1입니다.</p><p>Dozen</p><p>Dozen 베팅는 "1st 12", "2nd 12", "3rd 12" 이라고 표시된 세 그룹 중 하나에 베팅하는 것입니다. 배당률은 2:1입니다.</p>
+inside_bets	INSIDE 베팅
+how_roulette_5	<p>Straight 베팅</p><p>Straight 베팅은 테이블에서 하나의 넘버에 베팅하는 것 입니다. 배당틀은 35:1입니다.</p><p>Split 베팅</p><p>Split 베팅은 두 개의 인접한 번호에 베팅하는 것입니다. 배당률은 17:1입니다.</p><p>Street 베팅</p><p>Street 베팅팅은 세 개의 인접한 번호에 베팅하는 것입니다. 배당률은 11:1입니다.</p><p>Corner</p><p>Corner 베팅은 네 개의 인접 번호에 베팅하는 것입니다. 배당률은 8:1입니다.</p><p>Six-line</p><p>Six-line 베팅은 여섯 개의 인접 번호에 베팅하는 것입니다. 배당률은 5:1입니다.</p>
+call_bets	CALL 베팅
+how_roulette_6	Call 베팅는 룰렛 필에 있는 넘버들의 순서에 따라 베팅하는 것입니다.
+how_roulette_7	<p>Zero Spiel 베팅</p><p>Zero Spiel 베팅은 15, 32, 0, 26, 3, 35, 12에 베팅하는 것입니다. 베팅에는 4개의 칩이 사용됩니다.</p><p>한 개의 집은 35:1의 배당률인 26 블랙에, 나머지 3개의 집들은 0과 3, 35와 32, 12와 15에 각각 베팅합니다. 배당률은 17:1입니다.</p><p>Series 0/2/3</p><p>이 베팅에는 다음 번호들이 포함됩니다: 15, 32, 0, 26, 3, 35, 12, 25, 2, 21, 4, 19, 28, 7, 29, 18, 22.</p><p>베팅에는 9개의 집이 사용됩니다. 집들은 다음과 같이 분배됩니다:</p><p>0, 2, 3에 2개의 칩이 사용되고, 배당률은 11:1입니다.</p><p>4와 7, 12와 15, 18과 21, 19와 22, 32와 35에 각각 하나의 칩，총 5개의 칩이 사용됩니다. 배당률은 17:1입니다.</p><p>25, 26, 28, 29에 2개의 집이 사용됩니다. 배당률은 8:1입니다.</p><p>Orphelins</p><p>Orphelins 베팅은 6, 34, 17, 9, 31, 14, 20, 1에 베팅합니다. 5개의 칩이 이 베팅에 사용됩니다. 한 개의 칩은 35:1의 배당률로 1에 사용되고, 나머지 4개의 집은 각각 6과 9, 14와 17, 17과 20, 31과 34에 사용됩니다.</p><p>배당률은 17:1입니다. 만약 당첨 넘버가 17 블랙이라면, 배당률은 35:1이 됩니다.</p><p>Series 5/8</p><p>Series 5/8 베팅은 다음 번호들에 베팅합니다: 33, 16, 24, 5, 10, 23, 8, 30, 11, 36, 13, 27. 베팅에는 6개의 칩이 사용됩니다. 이 집들은 다음 숫자쌍과 같이 베팅됩니다: 5와 8, 10과 11, 13과 16, 23과 24, 27과 30, 33과 36. 배당률은 17:1입니다.</p><p>Neighbours</p><p>베팅은 하나의 넘버와 네 개의 인접한 번호에 다섯 개의 집이 사용됩니다. 배당률은 35:1입니다. 예를 들어 27에 베팅하고 당첨됐다면 인접 번호인 34, 6, 13, 36도 당첨된 것으로 간주하는 것입니다.</p>

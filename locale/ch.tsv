@@ -1,0 +1,292 @@
+fairness	公平的游戏
+how_to_play	如何玩
+best_mode	下注
+total_won	总盈利
+bet_amount	投注数额
+pls_select_sector	请选择一个区域
+pls_login_to	请登录
+spin	旋转
+time	Time
+block	模块
+player	玩家
+prediction	预测
+result	结果
+bet	赌注
+payout	付款
+fairness_text	随机数码生成器建立在哈希值之上，任何人事先都不知道。 您可以编入您的赌注ID和投注的区块编号，并确保得到的值和析出编号相匹配。
+bet_id	赌注id
+block_number	模块编号：
+result_2	结果
+send	发送
+referrals	邀请
+referrals_text	通过邀请你的朋友获得奖励！ 获得所有其投注的0.2％。 所有奖励都通过我们的智能合约自动发送。 只需复制链接并与所有朋友分享！ 创建推荐链接的价值为8.88 TRX且低于1 TRX交易费。 您可以无限次地创建链接，而旧链接将替换为新链接。
+how_1	1. 首先您需要拥有一个支持波场的钱包，如果你 您不知道如何选择钱包，可以参考使用谷歌插件 <a href="https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec" target="_blank">Tronlink</a> 以及手机支持的 <a href="https://mathwallet.org/" target="_blank">Math Wallet</a> <a href="https://tronwallet.me/" target="_blank">TronWallet</a> <a href="https://www.huobiwallet.com/" target="_blank">HuobiWallet</a> 等。
+how_2	2. 为玩游戏，你必须有TRX，这是TRON网络的主要加密货币。
+how_3	3. 设置下注金额。 这是您要下注的TRX金额。
+how_4	4. 请选择区域。
+how_5	5. 点击旋转进行下注。 智能合约将随机生成幸运数字。
+how_6	6.如果区域号等于您的预测，那么您将获胜！ 支付= 赌注 * 区域。
+how_7	还有其他问题吗？ 加入我们的<a href="https://t.me/tron888" target="_blank">电报组</a>，我们将竭诚为您服务！
+network_err	网路错误
+tsc_err	Tron Smart Contract目前无法使用。 请稍后再试。
+need_tron	需要 TRONLink
+tron_text	登录您的TRONLink钱包。 如果您没有TRONLink钱包，请<a href="https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec" target="_blank">下载Chrome扩展程序</a> 仅适用于Chrome浏览器。
+wagered	投注金额
+balance	余额
+my_bets	我的赌注
+all_bets	所有的赌注
+high_rollers	大赌注
+rare_wins	罕见的胜利
+history	历史
+money	钱
+poker_dice	掷骰子扑克戏
+crypto_slots	老虎机
+dividends	分红
+soon	很快
+play	（请玩
+to_mine	TRX获得1个代币888）
+stage	阶段：
+next_stage	下一阶段：
+available_dividends	可用股息
+total_of 	共计
+frozen_across	网上已冻结-您
+available	待提取
+withdrawn	已提取
+freeze	冻结
+frozen	已冻结
+unfreeze	提取
+wtithdraw_text	请登录您的TRONLink钱包。 如果您没有安装TRONLink钱包，请转到<a href="http://u6.gg/gmc5D" target="_blank"> http://u6.gg/gmc5D </a>并下载Chrome扩展程序。 （TRONbet目前只在Chrome中提供）
+freezing	冻结
+freezing_text	1.要获得股息，必须将代币888冻结到水平结束并在其结束后解冻。<br> 2。股息仅对冻结代币888发行。<br> 3。为冻结1的最小888代币数。 <br> 4。在等级结束后对代币888进行解冻时，股息将由智能合约的内部交易自动收取。<br> 5。如果冻结时，在帐户中已有冻结代币，则旧代币会自动解冻，然后整个金额完全冻结。如果在旧代币上产生股息，它们会通过内部智能合约交易自动转移到玩家的钱包中。 <br> 6。冻结和解冻代币888消耗几个TRX，必须在执行交易时，钱包里有它们。
+withdraw	提取
+token_about	888 Token代币
+token_title_1	什么是888代币及其用途是什么？
+token_text_1	888代币是TRON区块链上的TRC20代币。 总共可以开采100000000888个代币（有关代币888分配的信息，请查看我们的白皮书）。 代币888的持有人将向TRX支付股息，具体取决于他们拥有多少888个代币。
+token_title_2	什么是股息？ 为什么股息规模会发生变化？
+token_text_2	股息从888TRON.com的净收入中分配。 股息池将根据888TRON.com的用户奖金和输掉的钱不断变化。
+token_title_3	可以买888代币吗？
+token_text_3	888代币无法直接购买。 它只能通过888TRON.com游戏获得。 将来，将在DEX和其他加密交易所上提供888代币。
+token_title_4	我取了888代币，在哪里可以看到它们？
+token_text_4	可以将888代币添加到Tronlink。 为此，请选择代币部分并添加地址 "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3"。 之后你可以处理它们。
+token_title_5	获得红利后，我的888代币会被烧掉吗？
+token_text_5	不，如果您未决定在加密交易中兑换它们，888代币将永远与您同在。 只要您的钱包有888代币，您就可以从888TRON.com获得股息。 如果您拥有的888代币数量不随时间变化，则您收到的股息金额可能会随着时间的推移而减少。
+token_title_6	888代币现在多少钱？ 我现在可以兑换888代币吗？
+token_text_6	您可以查看“红利”项，查找有关888代币的实时信息。 888代币的价格将取决于整个888TRON.com平台和社区。 888代币可以在将来通过加密交易进行兑换。
+token_title_7	我需要取888代币吗？
+token_text_7	要获得股息，必须取888代币，然后冻结，直到股息分配期结束，并在结束后解冻。 非冻结代币不会获得股息。 解冻后，股息将通过智能合约自动转入您的账户。
+alreadyExist	已经存在！
+copy_link	复制链接
+noMoney	钱包里的TRX不够。
+reward_sum	奖励：
+cards	骰子52
+prediction	预测
+result	结果
+draw_under	小于
+draw_equal	等牌
+draw_over	大于
+payout_win	付款
+multiplayer	赔率
+win_chance	胜率
+how_dice	4. 一副有52张牌。 小牌2，大牌A（尖）。 玩家从一副中选择任何牌。 玩家在三押一注：下一张牌是由玩家选择的第一张牌随机分配的52张牌之一，将是更大或更小或等级。 花色在游戏中是有意义的。在猜测的情况下，玩家以投标金额乘以对应于所选择的玩家牌的系数和所选择的投注比率支付。
+total_mined	总挖掘
+unfreezeToWithdraw	Unfreeze Tokens 888 to withdraw
+subscribe	订阅
+your_email	您的邮箱地址
+still_have_questions	还有疑问？
+send_email	请给我们发送电子邮件：
+bet_tooltip	官方提示:由于手续费偏高，投100返回100.36，在这种情况下手续费约0.5,因此50,100的额度是亏损的，建议200起。
+support	支持
+exchange	交易所
+leaderboard	排行榜
+roadmap	路线图
+roadmap_date_1	3月
+roadmap_text_1	支持德语和日语
+roadmap_date_2	3月
+roadmap_text_2	主要为游戏平台的改进和优化（主要是速度和挖矿成本）
+roadmap_date_3	4月
+roadmap_text_3	推出新游戏“欧洲轮盘赌”
+roadmap_date_4	4月
+roadmap_text_4	介绍888生态概念和如何迈出第一步。
+roadmap_date_5	5月
+roadmap_text_5	推出新游戏“黑杰克”
+roadmap_date_6	5月
+roadmap_text_6	启动最佳开发团队大赛，奖金超10w美元。
+roadmap_date_7	从6月
+roadmap_text_7	开始推出第一个孵化dapp。
+roadmap_date_8	7月
+roadmap_text_8	研究合法化以及申请牌照。
+question_1	我没有拿到我赢得钱
+answer_1	请用你的波场钱包登录tronscan.org浏览器，然后输入你的钱包地址查看记录，所有奖金都来自合约地址TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe
+question_2	我没有收到分红
+answer_2	首先确保你的令牌处于锁定状态，然后可以登录tronscan.org浏览器，输入你的钱包地址查看记录，所有分红支付都来自合约地址TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMeTGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe
+question_3	我在玩的时候少了一些888
+answer_3	888Tron.com是一个基于区块链的平台，如果你的投注被智能合约接受，这意味着它是由区块链处理的，可以很容易的在tronscan.org浏览器上进行检查，所有获奖奖金都来自这个地址:TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe，未接受的投注不会影响您的钱包余额，并将被退还。由于每秒的投注数非常高(15-20)，一些投注可能被合约拒绝。
+question_4	如何查看我的交易历史
+answer_4	你可以用这个工具检查你的游戏日志，https://888tron.com/api/getHistory?address= - After (=)，在(=)后面输入你的钱包地址
+question_5	我的Tronlink钱包今天链接不上888tron.com网站上。
+answer_5	轻刷新网站或者重新链接，并确保你的钱包在主网下面，以及尝试在钱包“设置”中更换节点
+question_6	我的888代币不能冻结(解冻)。
+answer_6	首先请确保你的钱包里面有5trx（因为每次冻结或者解冻时都需要消耗宽带和能量）然后等待5-10秒，以及尝试刷新页面、查看主网、更换节点等操作。
+question_7	我的推荐链接无法使用。
+answer_7	由于你被另一位推荐人邀请参与到888tron.com，现在你的钱包已经和那个推荐人绑定在一起了，所以你不能使用自己的邀请了。
+question_8	我如何从888领取股息（分红）?
+answer_8	按住游戏内的“解冻”按钮就可以得到他们，分红将立即转账到您的钱包，并确保你的账户上又3各trx，并且解冻完不要忘记再次再次冻结您的令牌，这样你就不会错过下一次分红了。
+question_9	我如何参与到888游戏呢？
+answer_9	你需要Chrome浏览器，并注册TRONLink钱包在桌面上参与游戏，手机上可以在麦子钱包、稳拿派钱包上参与。
+question_10	我可以在哪里兑换我的代币？
+answer_10	你可以在波场去中心化交易所兑换，地址在这里: https://trontrade.io
+question_11	我可以在哪里查询有关您的令牌地址和平台的信息?
+answer_11	在tronscan.org浏览器上查询代币地址TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3；<br>游戏智能合约地址：TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe；<br>源码地址：https://github.com/888tron/contracts/blob/master/；<br>https://github.com/888tron/contracts
+troubleshooting	问题解答
+question_12	I cannot find my 888 tokens after they were unfreezed.
+answer_12	You can check all your token transfers on tronscan.org (TRC-20 Transfers section) by typing in your wallet number where tokens are stored. All tokens transactions are kept in blockchain and cannot be faked or lost.
+referrals_alert	Commission is collected to avoid bots creating referral links. Commission goes to Div's smart contract for farther distribution between token holders. 
+question_13	Will I receive dividends every round, even if I leave 888 frozen or I have to unfreeze to get TRX? 
+answer_13	Divs will be credited to your internal 888 account automatically. There is no need to unfreeze your tokens every time. To transfer TRX on your wallet you need to unfreeze tokens.
+overview	概觀
+buyback_pool	888 Buy Back Pool
+buyback_text	从3月24日开始，团队收入的15％将用于回购888令牌，初步回购周期为3个月。
+to_burnt	888 to be Burnt
+to_burnt_text	回购的令牌每两周将销毁20%，从4月9日开始。
+timer_days	天
+timer_hours	小時
+timer_minutes	分鐘
+timer_seconds	秒
+total_bet	Total Bet
+tokens	象征
+buy_trx	購買 TRX
+games	游戏
+roulette	轮盘赌
+baccarat	百家乐
+black_Jjack	黑杰克
+poker	扑克
+to_the_moon	爆点
+white_paper	白皮书
+faq	帮助
+promo	PROMO
+logo	LOGO
+banners	Banners
+facts_title	关于888tron.com平台重要事实
+fact_1	1. 888tron是一去中心化的游戏，建立在Tron公链智能合同之上。
+fact_2	2. 游戏直接从用户的密码钱包中进行，888tron平台不要求输入密码和访问个人钱包，也不保存密码和访问个人钱包的权限。
+fact_3	3.奖励即时发送到玩家的钱包，支付速度只取决于网络带宽
+fact_4	4. 玩家每次下注都可获得888个代币，锁定888代币每48小时可以领取一次分红，888平台全部利润的65%给予888持有者分红。
+fact_5	5. 888tron平台在所有dapp中创造了一项记录，一次性分红支付超过2.5亿TRX，即580多万美元。
+fact_6	6. 888tron和Tron公链运行稳定，没有出现故障和错误，在高峰负载期间，超过40%的Tron区块链事务属于888tron平台(每秒超过30个事务)
+fact_7	7. 888平台是唯一一个率先推出老虎机和制作独特的去中心化游戏平台。
+fact_8	8. 888平台是Tron共链上的的赢家。
+social	Social
+burnt	Burnt 888
+burnt_log	888 Burnt Log
+quantity	Quantity
+hash	Hash
+availableToWithdraw	 可提取的分红:
+request_unfreeze	解冻
+available_unfreeze	正在解冻
+unfreezable	可以解冻
+confirm	确认
+all	All
+mine	我的888
+withdraw_text	提取按钮.该按钮允许您提取您已经获得的分红，并自动转账到您的钱包。
+request_text	请求解冻.令牌解冻分为两个步骤，第一输入您要解锁的数量（单击按钮会弹出一个对话框），然后等待24小时，再次点击既可提走已经解锁的代币。
+withdrawable_dividends	可提取分红
+get_rewarded	通过推荐你的朋友获得奖励！
+just_copy	只需复制链接并分享给所有朋友！
+cost_to_create	创建一个推荐链接的成本是8.88 TRX，并且少钱包内需要1 TRX交易费用。
+create_new_referral	您可以随时创建新的推荐链接，旧的链接将自动更换。
+referrals_text	通过推荐你的朋友就可以享受终生的奖励，获得其所有投注的0.2%，所有的奖励都是通过我们的智能合同自动发送出去的。
+is_coming	来了
+start_playing	开始
+total_paid_out	支付分红
+lines	行
+install_extension	安装扩展
+using_chrome	(目前TRONEXT只能使用Chrome浏览器)
+for_developers	对于开发者
+about_us	关于我们
+our_partners	我们的合作伙伴
+wallet	钱包
+dapps_overview	Dapps数据概述
+bug_program	BUG悬赏计划
+careers	招聘
+bug_program_1	888 Bug赏金划旨在奖励那些花时间帮助我们改进平台安全性和整体功能的用户。
+bug_program_2	通过这个项目，我们为发现漏洞并提供报告的团队及个人提供金钱补偿
+criteria_eligibility	参与资格
+bug_program_3	任何对我们平台的安全性或我们品牌的完整性构成重大漏洞的错误都可能符合该计划的条件。
+bug_program_4	任何对我们平台的安全性或我们品牌的完整性构成重大漏洞的错误都可能符合该计划的条件。
+bug_program_5	<li>代码注入; </li> <li>远程执行代码; /li>
+bugs_are_not	 不符合标准的BUG提交
+bug_program_6	我们的团队无法控制的错误或安全问题都不符合我们的错误赏金计划。 这包括但不限于以下内容：
+bug_program_7	<li>跨站点脚本（XSS）; </li> <li>跨站点请求伪造（CSRF）; </li> <li> Clickjacking; </li> <li>由第三方托管的站点上的漏洞 ，除非它们对我们的主网站构成威胁; </li> <li>由物理攻击，社交工程，垃圾邮件，DDOS攻击等引起的漏洞; </li> <li>由过时或未修补的浏览器引起的漏洞; < /li> <li>使用888 API的第三方应用程序中的漏洞。</li> <li>未经调查并负责任地报告的错误; </li> <li>已向我们的团队报告的错误 （奖励发给报告的第一个人）; </li> <li>不可复制的问题。</li>
+reward	奖励
+bug_program_8	符合条件的漏洞最低加你100欧元等值的TRX，根据问题的严重性，奖金将会增加。
+bug_program_9	除了金钱补偿（以及我们永恒的感激之情），您还可以选择在我们网站的名人堂栏目中显示您的姓名和您的网站。
+how_to_report	如何报告漏洞
+bug_program_9	要报告漏洞，请发送电子邮件至tech@888tron.com。
+bug_program_10	您的电子邮件应该包含尽可能多的关于漏洞的信息，包括描述、可能的解决方案、它的潜在影响，重现错误的步骤或存在的证据。
+bug_program_11	不要忘记还包括您的TRX地址，我们好进行酬谢。
+bug_program_12	注意：我们会在2个工作日内回复您。
+investigation_and_reporting	负责调查和报告
+bug_program_13	888鼓励您在识别潜在安全问题时，在法律范围内进行操作。
+bug_program_14	确保负责任的调查和报告流程的一些一般规则包括但不限于以下内容：
+bug_program_15	<li>不得侵犯其他用户的隐私，破坏数据，破坏我们的服务等; </li> <li>仅在调查错误的过程中定位您自己的帐户; </li> <li> 不要针对我们的物理安全措施或尝试使用社交工程，垃圾邮件，分布式拒绝服务（DDOS）攻击等; </li> <li>以负责任的方式报告错误，并且仅针对888; < /li> <li>在等待回复时要耐心等待，不要向其他人透露错误。 如果您决定这样做，请事先通知我们; </li> <li>一般情况下，请以合理，善意的方式调查和报告错误，以免对我们或对我们造成破坏或伤害我们的用户。</li>
+career_1_title	Java/Scala开发人员
+career_1_1	88团队由由数据工程师、数据分析师、经济管理人员、商务智能工程师、业务分析师组成.
+career_1_2	您将同时与游戏和在线营销行业的领域专家和顶级商业人士合作。
+career_1_3	该职位包括从零开始开发主要模块，使用尖端技术。
+requirements	要求
+career_1_4	<li>2-4年后端开发经验</li> <li>计算机科学，数学，统计学或工程学</li> <li> 2年以上基于JVM的语言（Java / Scala </li> <li>熟悉ETL设计，熟悉数据仓库的架构、开发规范和流程 </li> <li> 熟悉ETL行业前沿信息及利用</li>
+apply_position	应聘职位请将简历发送至
+career_2_title	区块链发开者（以太坊、波场）
+career_2_1	888正在寻找可靠的开发人员来帮助我们在波场和以太坊智能合约上构建独特的区块链游戏
+career_2_2	<li> 可以稳定工作2  -  4年</li> <li>计算机科学，数学，统计学或工程学</li> <li> 2年以上基于以太坊/波场区块链语言的开发经验</li>
+career_3_title	Java脚本前端开发人员
+career_3_1	888正在寻找一位才华横溢的Java脚本开发人员，将我们的游戏设计理念付诸实践。
+career_3_2	<li>2-4年前端开发工作</li> <li>计算机及其相关专业本科以上学历 </li> <li> 2年以上的Web前端（ReactJS，Angular等） ......）经验</li> <li> 熟悉Flash</li> <li>游戏背景</li> <li>能够在复杂的环境中完成工作</li>
+career_4_title	品牌设计师
+career_4_1	888正在寻找一个有远见的品牌设计师，以帮助建立和发展我们的企业，打造强大的国际形象。
+career_4_2	在这个令人兴奋的职位中，您将负责开发全球888品牌的所有设计方面的需求!
+career_4_3	所以，是你么？
+career_4_4	你是一个充满激情的设计师。 您喜欢亲自动手进行设计工作，并且对视觉美学有敏锐的洞察力。
+career_4_5	你是一个有创造力的讲故事者， 您喜欢通过设计创造体验，并且您不会被全球范围内的挑战所吓倒。
+career_4_6	你是个战略思想家。你明白品牌设计必须始终支持商业目标。你被更大的蓝图所驱动，而从不在细节上妥协。
+career_4_7	你是一个合作的操作者。你是一个积极主动的人，知道如何在一个大型组织中导航，并与世界各地的同事合作。
+career_4_8	作为我们的品牌设计师，您将:
+career_4_9	激活和发展公司内部的新品牌形象，与员工建立深入的互动。
+career_4_10	为活动、会议和赞助制定和执行令人惊叹的品牌概念，包括：展位、体验、营销材料、赠品、社交媒体等。
+career_4_11	准备创意简报，概述项目目标和期望。
+career_4_12	与设计师，撰稿人，视频艺术家等人才团队协作并密切合作。
+career_4_13	你是：
+career_4_14	能够将想法用于执行并指导创作过程。
+career_4_15	有条理，注重细节，能在快节奏的工作环境中同时处理多个富有挑战性的项目。
+career_4_16	优秀的英语沟通能力，具有较强的口头、书面和表达能力。
+career_4_17	<li>2年以上设计工作</li> <li>对事物、新知识有求知欲</li> <li>良好的书面、口头沟通技巧</li> <li>良好的团队合作精神</li> <li>能够快速适应工作环境</li> <li>流利的英语</li>
+career_5_title	游戏设计师
+career_5_1	我们正在寻找一个充满活力，自我激励的团队成员，具备游戏设计的技能和激情。
+career_5_2	此职位需要具有博彩相关产品/项目管理方向综合型人才
+responsibilities	责任
+career_5_3	编写游戏规则，包括游戏逻辑、设计理念和实物模型;按时完成任务，在复杂条件下按时完成任务;了解玩家行为和用户体验
+career_5_4	2年的游戏设计相关经验，理解游戏机制和游戏元素，熟悉中国文化者优先，能融洽进团队，主动解决复杂问题，能够清晰的表达自己的想法和理论，具有良好的沟通和人际交往能力。
+career_6_title	UI / UX设计师
+career_6_1	888正在寻找下一颗冉冉升起的UI设计之星，为其顶尖的、行业领先的产品担当这一角色，您将负责跨数字产品和平台的用户体验、视觉设计理念和游戏用户界面
+career_6_2	作为一个伟大团队的一员，您将从超级友好和富有创造力的同事那里获得您梦寐以求的一切，并向游戏行业展示您最好的产品
+major_respons	主要职责:
+career_6_3	<li>从头至尾负责规划产品卓越的用户体验.以卓越用户体验为目标，设计清晰简洁的实现方案，给开发人员以明确的实现方法</li> <li>关注行业动态，关注新设计模式变化</li><li>通过预测、人机交互流程设计、用户反馈效果采集、改进等环节快速迭代，不断优化设计，逼近预期效果</li> <li>具备良好合作态度及团队精神，并富有工作激情、创造力和责任感，能承受一定工作压力。</li> <li> CAN DO APPROACH！</li>
+career_6_4	<li>较强的设计、绘图、色彩、构图和概念构思能力</li> <li>至少3年以上UI工作经验，游戏端UI经验优先</li> <li>精通 Photoshop。</li> <li>能快速设计出交互页面</li> <li>对排版有深刻理解</li><li>能和团队成员高效沟通和配合，以保证好的结果</li> <li> 繁琐任务处理能力</li> <li>经验丰富，要有拔尖的一面</li>
+advantage	优势
+career_6_5	<li>精通Flash、 After Effects和 Illustrator </li><li>游戏背景</li><li>对游戏制作有热情</li>
+career_6_6	***请附上作品集或作品链接
+career_6_7	（我们将通过作品联系您）
+coming_soon	马上就来
+game_overview	游戏概述
+how_roulette_1	<p>“欧洲轮盘赌”为欧洲式单零轮盘游戏，并新增了跑道线投注区。</p><p>轮盘上的号码从0至36号。轮盘上有一个零号。</p><p>赌桌上和赌局期间均会表明最小及最大赌注限额。</p><p>根据赔付表进行奖金赔付。按下“赔付额"按钮可查看賠付表。</p><p>按下"号码”按钮可查看游戏号码统计。"Hot”号码按降序显示胜出次数最多的五个号码。</p><p>“Cold” 号码显示胜出次数最少的五个号码。在“Hot” 和 "Cold” 号码下方的灰色数字则显示在特定 回合次数内，珠子落在该号码的次数。</p>
+betting_process	下注步骤
+how_roulette_2	<p>指向投注区的各个投注位时会高亮显示。</p><p>筹码放置在所选区域时即为下注。</p><p>欲选择赌注，按下您所选的筹码面值并选择赌桌上放赌注的位置。 </p><p>欲查看所有赌注面值，按下高亮箭咀。</p><p>欲清空所有赌注，按下“取消”按钮。</p><p>如果赌注金额超出赌注限额，赌注将会自动向下调整至最大可能金额。 </p><p>欲打珠到轮盘，按下“开始转盘”按钮。</p><p>珠子落在胜出号码时，会按所下赌注及相应的赔率作赔付。</p>
+roulette_bets	欧洲轮盘赌下注方式
+how_roulette_3	“欧洲轮盘赌”包含外围注、内围注、口头注三种方式。所有下注方式的赔率各不相同。在“赔付额”部份查看各下注方式的赔率。
+outside_bets	外围注
+how_roulette_4	<p>外围注对各有12或18个号码的区域下注。欲下外围注，将您的筹码放在赌桌上的所选区域。</p><p>1至18号/19至36号（均等机会）</p><p>该注下注在两大组号码上。上半部分包括1至18号，下半部份包括19至36号。赔率为1:1。</p><p> 单〆双（均等机会）</p><p>根据轮盘赌规则，该注下注在按奇偶性分组的号码上。赔率为1:1。</p><p> 红〆黑（均等机会）</p><p>该注按号码的颜色下注。赔率为1:1。</p><p>列注</p><p>其中分为三类。每一类下注在12格为一组的组别上。列注可选择对三直行之一进行下注，其位于标示为“2 to 1” 的主桌面区域。赔率为2:1。</p><p> 12注</p><p>12注下注在桌面区域分别标示为 “1st 12”，“2nd 12”，“3rd 12” 的这3个组别上。赔率为2:1</p>
+inside_bets	内围注
+how_roulette_5	<p>单一号码</p><p>单一号码可对桌面区域的任一个号码下注。赔率为35:1。</p><p>分注</p><p>分注下注在桌面区域的两个紧靠的相邻号码上。赔率为17:1。</p><p>数字组合</p><p>数字组合下注在横行的三个号码上。赔率为11:1。</p><p>角注</p><p>角注下注在四个相邻号码上。赔率为8:1。</p><p>线注</p><p>线 注下注在六个相邻号码上。赔率为5:1。</p>
+call_bets	口头注
+how_roulette_6	口头注按轮盘上的号码顺序下注。
+how_roulette_7	<p>Zero Spiel</p><p>Zero Spiel 对15, 32, 0, 26, 3, 35, 12号下注。该注共使用4个筹码。黑26号用一个筹码，赔率为35:1。 其余3个筹码分配至双号码0和3号，35和32号，12和15号。赔率为17:1。</p><p>0/2/3系列注</p><p>该注包括以下号码：15, 32, 0, 26, 3, 35, 12, 25, 2, 21, 4, 19, 28, 7, 29, 18, 22号。</p><p>该注共使用9个筹码。分配方式如下：</p><p>0, 2, 3号用两个筹码，赔率为11:1。</p><p>双号码4和7号，12和15号，18和21号，19和22号，32和35号各组用一个筹码（共5个筹码〉。赔率为17:1 ，</p><p>号码组合25, 26, 28, 29号用两个筹码。赔率为8:1。</p><p>Orphelins</p><p>Orphelins赌注针对6, 34, 17, 9, 31, 14, 20, 1号。该注使用5个筹码。1号用一个筹码，赔率为35:1。</p><p>其余4个筹码分配至双号码6和9号，14和17号，17和20号，31和34号。赔率为17:1。若结果为黑17号，则赔率为35:1。</p><p> 5/8系列注</p><p>5/8系列注对以下号码下注：33, 16, 24, 5, 10, 23, 8, 30, 11, 36, 13, 27号。该注共使用6个筹码。 各筹码对应以下双号码：5和8号，10和11号，13和16号，23和24号，27和30号，33和36号。赔率为17:1。</p><p> 邻注</p><p>该注使用五个筹码对一个号码及其4个邻近号码下注。赔率为35:1。例如，假如下注27号且该号码胜出， 其邻近号码34, 6, 13, 36亦将视为胜出。</p>

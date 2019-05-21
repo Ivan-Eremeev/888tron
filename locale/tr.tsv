@@ -1,0 +1,292 @@
+fairness	Adil Oyun
+how_to_play	Nasıl oynanır
+best_mode	Yapılan Bahisler
+total_won	Toplam Kazanılan
+bet_amount	Bahis Tutarı
+pls_select_sector	Lütfen sektör seçiniz
+pls_login_to	Lütfen giriş yapınız
+spin	Çevirmek
+time	Time
+block	Blok
+player	Oyuncu
+prediction	Tahmin
+result	Sonuç
+bet	Bahis 
+payout	Ödeme
+fairness_text	Rasgele sayı generatörü, önceden kimsenin bilmediği Tron bloğunun karma değeri üzerine kurulmuştur. Bahsinizin numarasını ve bahsin yapıldığı blok numarasını ekleyebilir ve elde edilen değerin ve ortaya çıkan sayı ile eşleştiğinden emin olabilirsiniz.
+bet_id	Id Bahisler:
+block_number	Blok Numarası
+result_2	Sonuç:
+send	Gönder
+referrals	Yönlendirmeler
+referrals_text	Get rewarded just by referring your friends! Enjoy lifetime rewards just by referring your friends! Receive 0.2% of all their BETS. All rewards are sent out automatically through our smart contracts. Just copy the link and share it to all your friends! Enjoy lifetime rewards just by referring your friends! Receive 0.2% of all their bets. All rewards are sent out automatically through our smart contracts. Just copy the link and share it to all your friends! The cost to create a referral link is 8.88 TRX and less than 1 TRX transaction fee. You can create new referral links as many times as you want. Old one will replace automatically.
+how_1	1. TRONLink cüzdanınızın olduğundan emin olun. Cüzdan oluşturmak için ayrıntılı bilgiye ulaşmak için <a href="https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec" target="_blank">tıklayın</a>. To play on mobile devices please use <a href="https://mathwallet.org/" target="_blank">Math Wallet</a>, <a href="https://tronwallet.me/" target="_blank">TronWallet</a> or <a href="https://www.huobiwallet.com/" target="_blank">HuobiWallet</a>.
+how_2	2. Oynamak için TRX'iniz olmalıdır, bu TRON ağının ana kripto para birimidir.
+how_3	3. Bahis tutarı giriniz. Bu bahis yapacağınız TRX tutarıdır.
+how_4	4. Sektör seçiniz.
+how_5	5. Bahis yapmak için ÇEVİR'e tıklayın. Akıllı sözleşmeler rastgele şanslı sayı geliştirecek.
+how_6	6. Sektör numarası tahmininize eşitse, o zaman KAZANACAKSINIZ! Ödeme = BAHİS * SEKTÖR.
+how_7	Sorularınız mı var? Bizim <a href="https://t.me/tron888" target="_blank"> telegram grubumuza</a> katılın, Size yardımcı olmaktan mutluluk duyacaktır!
+network_err	Ağ Hatası
+tsc_err	Tron Smart Contract şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin.
+need_tron	TRONLink gerekmektedir.
+tron_text	TRONLink cüzdanınıza giriş yapın. Bir TRONLink cüzdanınız yoksa, lütfen  <a href="https://chrome.google.com/webstore/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec" target="_blank"> bağlantısından Сhrome</a> uzantısını indirin. Yalnızca Chrome tarayıcısı için kullanılabilir.
+wagered	Bahis yapıldı
+balance	Bakiye
+my_bets	Bahislerim
+all_bets	Tüm Bahisler
+high_rollers	Büyük Bahisler
+rare_wins	Nadir Kazançlar
+history	Tarih
+money	Para
+poker_dice	Poker Taşları
+crypto_slots	Kripto yuva
+dividends	Temettüler
+soon	Yakında
+play	(Oyna
+to_mine	1 Token 888 elde etmek için TRX)
+stage	Aşama:
+next_stage	Sıradaki aşama:
+available_dividends	Kullanılabilir Temettüler
+total_of 	Toplamda
+frozen_across	ağda donmuş - Sizin alacağınız 
+available	Mevcut
+withdrawn	Çekilmiş
+freeze	Dondur
+frozen	Dondurulmuş
+unfreeze	Çöz
+wtithdraw_text	Lütfen TRONLink cüzdanınıza giriş yapın. TRONLink cüzdanınız kurulu değilse, lütfen <a href="http://u6.gg/gmc5D" target="_blank">http://u6.gg/gmc5D</a> adresini ziyaret edin ve Chrome uzantısını indirin. (TRONbet şimdilik yalnızca Chrome tarayıcısında kullanılabilir)
+freezing	Dondurmak
+freezing_text	1. Temettü alabilmek için, bir seviye sonundan önce 888 token'ınızı dondurmanız ve seviye sona erdikten sonra bunları dondurmanız gerekir. <br>2. Temettüler yalnızca dondurulmuş olan 888 Jetona tahakkuk ettirilecektir. <br>3. Biri, dondurulması gereken minimum 888 token sayısıdır. <br>4. 888 token'lar seviyenin bitiminden sonra donduğunda, akıllı sözleşme yoluyla bir iç işlemle temettüler otomatik olarak tahakkuk ettirilir. <br>5. Yeni bir bölümü dondururken hesabınızda zaten donmuş belirteçler varsa, önceki bölüm otomatik olarak donacaktır ve belirteçlerin sayısı donmuş olacaktır. Tokenların önceki kısmına temettü biriktirilmişse, akıllı sözleşme aracılığıyla dahili bir işlemle otomatik olarak oyuncunun cüzdanına aktarılır. <br>6. 888 token'ın dondurulması ve çözülmesi işlemi birkaç TRX alacaktır, bu yüzden işlem yaparken onları cüzdanınızda bulundurmanız gerekir.
+withdraw	Çekilmiş
+token_about	Token 888  Hakkında
+token_title_1	Token 888 nedir ve ne için kullanılır?
+token_text_1	Token 888, TRON blokchain sistemindeki TRC20 token’ıdır. Toplamda 100 000 000 adet Token 888 elde edilebilir (token 888 dağılımı hakkında bilgi almak için bizim WhitePaper’e bakınız). Token 888 sahipleri, elde ettikleri token 888 sayısına göre TRX olarak temettü alacaktır.
+token_title_2	Temettü nedir? Temettü miktarı niye göre değişir?
+token_text_2	Temettü 888TRON.com platformunun net gelirinden belirlenecektir. Temettü havuzu 888TRON.com platformu kullanıcılarının kazanç ve kayıplarına göre hep değişecektir.
+token_title_3	Token 888 satın alabilir miyim?
+token_text_3	Token 888 direkt satın alınamaz, yalnızca 888TRON.com platformunda oynanarak elde edilebilir. Gelecekte 888 token'ları DEX ve başka kripto para borsalarında kullanımda olacaktır.
+token_title_4	888 token'larımı çıkarttım, onları nerede görebilirim?
+token_text_4	Token 888 Tron link’e eklenebilir. Bunun için Token’lar bölümüne giderek "TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3" adresini yazmanız gerekir. Bu işlemden sonra token’larınızı kullanabilirsiniz.   
+token_title_5	Bana temettü yatırıldıktan sonra benim 888 token'larım yanacak mı?
+token_text_5	Hayır, token’lar her zaman sizin sahipliğinizde olur; Siz onları kripto para borsalarında bozdurmak isteyebilirsiniz. Sanal cüzdanınızda 888 token’ları olduğu sürece siz 888TRON.com’dan temettü alabileceksiniz. Eğer sizin 888 token’larınız zamanla artmıyorsa, aldığınız temettü payı zamanla azalabilmektedir.
+token_title_6	Token 888 şu anda ne kadardır? 888 token'larımı şimdi bozdurabilir miyim?
+token_text_6	‘‘Temettü’’ sekmesinden 888 token’ınız hakkında canlı ortamda bilgi alabilirsiniz. Token 888 bedeli tüm 888TRON.com platformu ve topluluğuna göre belirlenir. Gelecekte token 888 DEX ve benzeri kripto para borsalarında bozdurulabilir.
+token_title_7	888 token'larımdan temettü nasıl alabilirim?
+token_text_7	Temettü alabilmek için 888 token’ları çekmek ve dağıtım sürecinin bitimine kadar dondurmak gerekir, bu süreç tamamlandıktan sonra dondurma işlemini iptal etmek gerekir. Dondurulmayan token’lar için temettü alınamaz. Dondurulma işlemi bitiminde temettü akıllı sözleşmeler vasıtasıyla otomatik olarak hesabınıza aktarılır.
+alreadyExist	Zaten mevcuttur!
+copy_link	Linki Kopyala
+noMoney	Cüzdanında yeterli TRX yok.
+reward_sum	Ödüllendirme:
+cards	Dice52
+prediction	Tahmin
+result	Sonuç
+draw_under	Altında çekilmiş
+draw_equal	Tam çekilmiş
+draw_over	Fazla çekilmiş
+payout_win	Kazanmada Ödeme:
+multiplayer	Çoklu oyuncu
+win_chance	Yenme fırsatı
+how_dice	4. Destede 52 kart vardır. En düşük kart 2'dir ve en yüksek kart A (as'tır). Oyuncu desteden herhangi bir kartı seçer. Oyuncu üç etkinlikten birine bahis yapar: sonraki kart - kalan 51 karttan biri, rastgele dağıtıldığında, oyuncu tarafından seçilen karttan BÜYÜKTÜR, KÜÇÜKTÜR VEYA EŞİT olacaktır. Oyunda kağıdın simgelerine dikkat edilmemektedir. Oyuncu Etkinliği kazandığında, oyuncu tarafından seçilen kartına ve bahis için seçilen etkinliğe karşılık gelen katsayı ile çarpılan ödeme yapılmaktadır.
+total_mined	toplam elde edilen
+unfreezeToWithdraw	Çözmek için 888 Jetonlarını çöz
+subscribe	Abone ol
+your_email	Sizin e-posta edresiniz
+still_have_questions	Başka sorularınız var mı?
+send_email	Bize e-mail gönderin
+bet_tooltip	Küçük oranlar (50-100 TPH), büyük olanlarla aynı enerjiyi kullanır (~ 0.5 TRX), ancak daha az belirteç ve gelir getirir. 
+support	Destek:
+exchange	Borsa
+leaderboard	lider tahtası
+roadmap	Yol haritası
+roadmap_date_1	Mart
+roadmap_text_1	Almanca ve Japonca web sitesi yerelleştirmeleri ekleme.
+roadmap_date_2	Mart
+roadmap_text_2	Genel platform iyileştirmeleri ve optimizasyonu (hız ve işlem maliyetleri).
+roadmap_date_3	Nisan
+roadmap_text_3	Avrupa Ruleti oyun lansmanı.
+roadmap_date_4	Nisan
+roadmap_text_4	888 ekosistem kavramının tanıtımı ve gelişim başarısının ilk adımları.
+roadmap_date_5	Mayıs
+roadmap_text_5	Black Jack oyun lansmanı.
+roadmap_date_6	Mayıs
+roadmap_text_6	100 K USD üzerindeki ödül fonuyla en iyi temettü ekip yarışması lansmanı.
+roadmap_date_7	Haziran başlangıcı
+roadmap_text_7	Outsource dev.teams tarafından oluşturulan ilk oyun ve APP entegrasyonu.
+roadmap_date_8	Temmuz
+roadmap_text_8	Yasal araştırma (Subject: 888tron.com licensing)
+question_1	Bahsimi (kazançları) geri alamadım.
+answer_1	TRX cüzdan numaranızı kullanarak tronscan.org - Dahili İşlemler bölümünü kontrol edin. Kazanan tüm ödemeler bu adresten geliyor: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe
+question_2	Temettülerimi alamadım.
+answer_2	Jetonlarınızın dağıtıldığı sırada jetonlarınızın donmuş olduğundan emin olun. TRX cüzdan numaranızı kullanarak tronscan.org - Dahili İşlemler bölümünü kontrol edin. Tüm temettüler ödemeleri bu adresten gelir: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe
+question_3	Oyunu kaçıran bir sürü TRX lerim bulunmakta.
+answer_3	888Tron.com tamamen merkezi olmayan bir platformdur. Eğer bahsiniz akıllı bir sözleşme ile kabul edilmişse, bu, blockchain tarafından işlendiğini ve tronscan.org - Dahili İşlemler bölümünden kolayca kontrol edilebildiği anlamına gelir. Kazanan tüm ödemeler bu adresten geliyor: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe. Kabul edilmeyen bahisler cüzdan bakiyenizi etkilemez ve iade edilir. Saniyede çok yüksek miktarda bahis yapıldığından (~ 15-20), bazı bahisler akıllı kontratlarla reddedilebilir.
+question_4	Oyun günlüğümü nasıl kontrol edebilirim.
+answer_4	Oyun kayıtlarını kontrol etmek için bu cihazı kullanabilirsin. https://888tron.com/api/getHistory?address= - (=) işaretinden sonra cüzdan numaranızı girmelisiniz.
+question_5	Tronlink cüzdanım bugün 888tron.com web sitesinde görünmüyor.
+answer_5	Web sitesini yenile Cüzdanınızı yenileyin veya gerekirse yeniden giriş yapın. Cüzdanınızın Mainnet’in altında çalıştığından emin olun. M-cüzdan Ayarları menüsünde, mevcut listeden başka bir Müşteri düğüm seçmeyi deneyin.
+question_6	888 nominal paralarım donmuyor (serbest bırak)
+answer_6	Cüzdan hesabınızda en az TRX 5 olduğundan emin olun. Simgelerinizi her dondurduğunuzda veya çözdüğünüzde enerji ve bant genişliğine ihtiyacınız vardır. 5-10 saniye bekleyin. Hiçbir şey olmadıysa web sitesini yenileyin. Cüzdanınızı yenileyin veya gerekirse yeniden giriş yapın. Cüzdanınızın Mainnet’in altında çalıştığından emin olun. M-cüzdan Ayarları menüsünde, mevcut listeden başka bir Müşteri düğümü seçmeyi deneyin.
+question_7	Benim yönlendirme linkim çalışmıyor
+answer_7	888tron.com'a başka bir tavsiye tarafından davet edildiniz. Şimdi cüzdanınız bu yönlendirmeye bağlandı ve kendi referans linkinizi kendiniz kullanamazsınız.
+question_8	888 token den temettülerimi nasıl alabilirim?
+answer_8	Onları almak için 888tron.com'da (Temettüler bölümü) “çöz” butonuna basın. Temettüler derhal cüzdanınıza aktarılacak. Hesabınızda TRX 3 olduğundan emin olun. İşlem bittiğinde jetonlarınızı tekrar dondurmayı unutmayın ki bir sonraki temettü dağıtımını kaçırmayın.
+question_9	888tron üzerinde oynamaya başlamak için neler yapmam gerekir?
+answer_9	Chrome internet tarayacısına ihtiyacınız var. Masaüstünde oynamak için TRONLink cüzdanına ihtiyacınız var. <br>To play on mobile please use<br> Math Wallet (www. mathwallet.org), <br>TronWallet (www.TronWallet.me),<br> Banko wallet (www.bankowallet.com).
+question_10	Tokenlerimi nerede satabilirim ?
+answer_10	888 tokenlerini burada satabilirsin: https://trontrade.io
+question_11	Token adresim ve senin platformun hakkındaki bilgiyi nerede kontrol edebilirim?
+answer_11	www.tronscan.org <br>Token address: TLvDJcvKJDi3QuHgFbJC6SeTj3UacmtQU3<br> 888tron game smart contract address: TGtGhthzyLBYPUKDysXX1YSgRKPYVTQuMe <br>Github:https://github.com/888tron/contracts/blob/master/Token888.sol <br>https://github.com/888tron/contracts
+troubleshooting	Sorunlu atış
+question_12	I cannot find my 888 tokens after they were unfreezed.
+answer_12	You can check all your token transfers on tronscan.org (TRC-20 Transfers section) by typing in your wallet number where tokens are stored. All tokens transactions are kept in blockchain and cannot be faked or lost.
+referrals_alert	Commission is collected to avoid bots creating referral links. Commission goes to Div's smart contract for farther distribution between token holders. 
+question_13	Will I receive dividends every round, even if I leave 888 frozen or I have to unfreeze to get TRX? 
+answer_13	Divs will be credited to your internal 888 account automatically. There is no need to unfreeze your tokens every time. To transfer TRX on your wallet you need to unfreeze tokens.
+overview	Genel bakış
+buyback_pool	888 Buy Back Pool
+buyback_text	15% of the Team’s income is spent to buy back 888 tokens for the next 3 months. 
+to_burnt	888 to be Burnt
+to_burnt_text	Starting April 9 every two weeks 20% of the Buy Back Pool tokens will be burned.
+timer_days	Günler
+timer_hours	Saatler
+timer_minutes	Dakika
+timer_seconds	Saniye
+total_bet	Total Bet
+tokens	Tokens
+buy_trx	Almak TRX
+games	Oyunlar
+roulette	Rulet
+baccarat	Baccarat
+black_Jjack	Black Jack
+poker	Poker
+to_the_moon	To the Moon
+white_paper	White Paper
+faq	FAQ
+promo	PROMO
+logo	LOGO
+banners	Banners
+facts_title	8 facts about 888tron.com
+fact_1	1. 888tron.com is a fully decentralized platform built on TRON blockchain smart contracts.
+fact_2	2. Playing there takes place directly from the user's crypto wallet. Passwords and access to a personal wallet are not requested by the 888tron platform and are not saved.
+fact_3	3. Reward payments are instantly sent to the player’s wallet. The payout speed depends only on the network bandwidth TRON.
+fact_4	4. The player receives 888 tokens for every bet. The purpose of the 888 token is to receive dividends that are credited every 48 hours. Owners of 888 tokens receive 65% of all profits of the 888tron platform in the form of dividend payments.
+fact_5	5. The 888tron platform set a record among the DApps of all blockchains in payout. One-time dividend payments reached more than 250M TRX, which is more than $5.8M.
+fact_6	6. 888tron smart contracts and TRON blockchain showed stable operation without failures and errors. During peak loads, more than 40% of all TRON blockchain transactions belonged to 888tron platform (more than 30 transactions per second).
+fact_7	7. 888 platform is the only one which first launched crypto slots and makes unique decentralized games.
+fact_8	8. 888 platform is the winner of the Tron Network accelerator.
+social	Social
+burnt	Burnt 888
+burnt_log	888 Burnt Log
+quantity	Quantity
+hash	Hash
+availableToWithdraw	Available to withdraw dividends:
+request_unfreeze	Request Unfreeze
+available_unfreeze	Available to Unfreeze
+unfreezable	Unfreezable
+confirm	Confirm
+all	All
+mine	Mine 888
+withdraw_text	Withdraw Button. The button allows you to withdraw the accumulated dividends from previous levels without additional freezing / unfreezing by automatically and instantly transferring them to your wallet.
+request_text	Request Unfreeze (24). The unfreezing of tokens occurs in two stages: first one - you request the number of tokens which you want to unfreeze (on clicking on the button, you can see a dialog with the choice of the number of tokens you want to unfreeze). Then, after 24 hours, they become available for unfreezing, it means that the Unfreeze button, which needs to be clicked, becomes available for clicking, so that the tokens are transferred to your wallet.<br>Token’s unfreezing timer in 24 hours is reset and restarted in the following cases:<br>- If you request a new number of tokens for unfreezing, without withdrawing the tokens that were unfrozen by the previous request.<br>- If you decide to freeze the new number of tokens without withdrawing the tokens that were unfrozen by the previous request.
+withdrawable_dividends	Withdrawable dividends:
+get_rewarded	Get rewarded just by referring your friends!
+just_copy	Just copy the link and share it to all your friends!
+cost_to_create	The cost to create a referral link is 8.88 TRX and less than 1 TRX transaction fee.
+create_new_referral	You can create new referral links as many times as you want. The old one will be replaced automatically.
+referrals_text	Enjoy lifetime rewards just by referring your friends! Receive 0.2% of all their bets. All rewards are sent out automatically through our smart contracts.
+is_coming	Is coming
+start_playing	Start Playing
+total_paid_out	Dividends paid out
+lines	Lines
+install_extension	Install Extension
+using_chrome	(TRONEXT is only available using Chrome browser for the time being)
+for_developers	For Developers
+about_us	About Us
+our_partners	Our Partners
+wallet	Wallet
+dapps_overview	Dapps data overview
+bug_program	Bug Bounty Program
+careers	Careers
+bug_program_1	888 Bug Bounty Program was created to reward the users that invest their time into helping us improve the security and the overall functionality of our platform.
+bug_program_2	Through this program, we provide monetary compensation for vulnerabilities that were discovered and reported to our team in a responsible manner.
+criteria_eligibility	Criteria for eligibility
+bug_program_3	Any bug that poses a significant vulnerability, either to the security of our platform or the integrity of our brand, could be eligible for the program.
+bug_program_4	Any bug that poses a significant vulnerability, either to the security of our platform or the integrity of our brand, could be eligible for the program.
+bug_program_5	<li>Code Injection;</li><li>Remote Code Execution;</li><li>Privilege Escalation;</li><li>Authentication Bypass;</li><li>Leakage of Sensitive Data.</li>
+bugs_are_not	Bugs that are not eligible for reporting
+bug_program_6	Any bug or security issue that our team has no control over is not eligible for our bug bounty program. This includes, but is not limited to, the following:
+bug_program_7	<li>Cross-Site Scripting (XSS);</li><li>Cross-Site Request Forgery (CSRF);</li><li>Clickjacking;</li><li>Vulnerabilities on sites hosted by third parties, unless they pose a threat to our main website;</li><li>Vulnerabilities caused by physical attacks, social engineering, spamming, DDOS attack, etc;</li><li>Vulnerabilities caused by outdated or unpatched browsers;</li><li>Vulnerabilities in third-party applications that make use of 888 API.</li><li>Bugs that were not investigated and reported responsibly;</li><li>Bugs that were already reported to our team (the reward goes to the first person who reported it);</li><li>Issues that aren't reproducible.</li>
+reward	Reward
+bug_program_8	The minimum reward for eligible bugs is the equivalent of €100 in TRX. However, the compensation will increase based on the gravity of the issue reported.
+bug_program_9	Besides the monetary compensation (and our eternal gratitude), you can also choose to have your name and an URL of your choice displayed on our website’s Wall of Fame section.
+how_to_report	How to Report a Bug
+bug_program_9	To report a bug, send us an email at tech@888tron.com.
+bug_program_10	Your email should include as much information as possible about the bug, including a description, possible solutions, its potential impact, and steps to reproduce it or proof of its existence.
+bug_program_11	Don’t forget to also include your TRX address for payment.
+bug_program_12	Notice: It may take us up to 2 business days to get back to you.
+investigation_and_reporting	Responsible Investigation and Reporting
+bug_program_13	888 encourages you to always operate within legal boundaries when trying to identify potential security issues.
+bug_program_14	Some general rules that ensure a responsible investigation and reporting process include, but are not limited to, the following:
+bug_program_15	<li>Don't violate the privacy of other users, destroy data, disrupt our services, etc.;</li><li>Only target your own accounts in the process of investigating a bug;</li><li>Don't target our physical security measures or attempt to use social engineering, spam, distributed denial of service (DDOS) attacks, etc.;</li><li>Report the bug in a responsible manner, and only to 888;</li><li>Be patient while waiting for a reply, and do not disclose the bug to anyone else. If you decide to do so, give us a notice beforehand;</li><li>In general, please investigate and report bugs in a way that makes a reasonable, good-intentioned effort not to be disruptive or harmful to us or to our users.</li>
+career_1_title	Java, Scala Developer
+career_1_1	888 professional data teams built from data engineers, data scientists, economy managers, BI engineers, Business analysts.
+career_1_2	You will partner with 888 domain experts and top-level business professionals in the gaming and online marketing industries.
+career_1_3	The role includes development of major modules from scratch, working with cutting edge technologies.
+requirements	Requirements:
+career_1_4	<li>2-4 years with Back-end development</li><li>B.Sc in Computer Science, Mathematics, Statistics or Engineering</li><li>2+ years of JVM based language (Java/Scala, etc..) experience</li><li>Demonstrated strength in data modeling, ETL development, and data warehousing</li><li>Experience with ETL process, real time or batch pipelines - Advantages</li>
+apply_position	Apply for position be sending us your resume at
+career_2_title	Solidity block chain developer (Ethereum, Tron)
+career_2_1	888 is looking for solidity developer to help us build unique block chain based games on Tron and Ethereum smart contracts.
+career_2_2	<li>2-4 years with Solidity development</li><li>B.Sc in Computer Science, Mathematics, Statistics or Engineering</li><li>2+ years of Ethereum/Tron blockchain based language experience</li>
+career_3_title	Java script front end developer
+career_3_1	888 is looking for a Talented Java script developer to implement our game design ideas into life.
+career_3_2	<li>2-4 years with Front-end development</li><li>B.Sc in Computer Science, Mathematics, Statistics or Engineering</li><li>2+ years of Web Frontend (ReactJS, Angular, etc...) experience</li><li>Knowledge of Flash</li><li>Gaming background</li><li>Ability to meet deadlines in a strong team environment</li>
+career_4_title	Brand Designer
+career_4_1	888 is looking for a visionary brand designer to help build and develop our corporate brand language worldwide.
+career_4_2	In this exciting new role, you’ll be responsible for developing all the design aspects of 888 brand needs around the world!
+career_4_3	So who are you?
+career_4_4	You’re a passionate designer. You love doing hands-on design work and you have a keen eye for visual aesthetics.
+career_4_5	You’re a creative storyteller. You love creating experiences through design and you’re not daunted by the challenge of doing it at a global scale.
+career_4_6	You’re a strategic thinker. You understand that brand design must always support the business objectives. You’re driven by the bigger picture without ever compromising on the details.
+career_4_7	You’re a collaborative operator. You’re a self-starter who knows how to navigate within a large organization and collaborate with colleagues around the world.
+career_4_8	As our brand designer, you will:
+career_4_9	Activate and develop the company’s new brand language internally to create deep engagement with our employees.
+career_4_10	Develop and execute amazing brand activation concepts for events, conferences and sponsorships - including: booths, experiences, marketing materials, giveaways, social media, etc.
+career_4_11	Prepare creative briefs, outlining project goals and expectations.
+career_4_12	Collaborate and work closely with talented teams, such as designers, copywriters, video artists and others.
+career_4_13	You are:
+career_4_14	Capable of taking idea to execution and guiding the creative process.
+career_4_15	Organized, detail-oriented and skilled at juggling multiple challenging projects at once in a fast-paced work environment.
+career_4_16	An exceptional communicator with strong verbal, written and presentation skills in English.
+career_4_17	<li>2+ years in design</li><li>Fast learner with a thirst for knowledge and depth</li><li>Strong written, verbal and visual communications skills</li><li>Exceptional communication and interpersonal skills </li><li>Agile, adaptable and flexible personality</li><li>Fluent in English</li>
+career_5_title	Game Designer
+career_5_1	We’re looking for a dynamic, self-motivated team player with skills and passion for Game Designing.
+career_5_2	This position requires a creative candidate who has a balance of gaming know-how and product/project management orientation.
+responsibilities	Responsibilities
+career_5_3	<li>Research, create and develop ideas for new games</li><li>Write game design specifications including game logic, design ideas and mock-ups</li><li>Meet deadlines, work well under pressure and on simultaneous tasks</li><li>Understand player behavior and user experience </li><li>Work with multiple cross-departmental teams</li>
+career_5_4	<li>Up to 2 years of related experience in game designing or bachelor of game designing related studies</li><li>Passion for the gaming world </li><li>Understanding game mechanics and game-play elements- art and content </li><li>Former background in content writing- advantage </li><li>Good familiarity with the American and Chineese culture – a major advantage</li><li>Bachelor of Industrial Design studies- advantage </li><li>Ability to work collaboratively, solving complex problems on own initiative and also in a team</li><li>Ability to communicate ideas and theories clearly </li><li>Great communication and interpersonal skills</li>
+career_6_title	UI/UX Designer
+career_6_1	888 is looking for the next rising UI design Star for its top-notch, industry leading product In this role, you will be responsible for user experience, visual design concepts and Game user interface across digital products and platforms
+career_6_2	As part of a great team you will receive everything you can dream of from super friendly and creative co-workers &amp; a strong focus on your development, to projects that will inspire the hole Gaming Industry Your best work is yet to come…
+major_respons	Major Responsibilities:
+career_6_3	<li>Conceptualize, present and execute your ideas from A to Z. Lead your own creation</li><li>Stay updated on the latest developments, trends and thinking within Digital Design</li><li>Create a playful, intuitive cohesive look &amp; feel, and overall user experience for our products</li><li>The ability to work in a dynamic environment quick decision making within tight schedules</li><li>CAN DO APPROACH!</li>
+career_6_4	<li>Strong design, drawing, Color, composition, and conceptual ideation abilities</li><li>At least 3 years of experience in UI and understanding of UI principals</li><li>Excellent knowledge of Photoshop.</li><li>Quick sketching methods and the ability to create accurate wireframes</li><li>Strong understanding of typography</li><li>Ability to meet deadlines in a strong team environment</li><li>Strong multi-tasking ability</li><li>Resourceful with excellent follow-through skills</li>
+advantage	Advantage:
+career_6_5	<li>Knowledge of Flash, After effects and Illustrator </li><li>Gaming background</li><li>Have a passion for making and playing video games</li>
+career_6_6	*** PLEASE ATTACH A PORTFOLIO OR A LINK TO AN ONLINE VERSION
+career_6_7	(We will contact only resumes with portfolio links)
+coming_soon	coming soon
+game_overview	Oyun Özeti
+how_roulette_1	<p>"Roulette with Track", avrupa'da yarış bahis alanı özelliği de eklenen tekli bir sıfır oyun versiyonudur.</p><p>Rulet tekerleğindeki sayılar 0 ile 36 arasındadır. Tekerleğin üzerinde bir tane sıfır vardır.</p><p>Minimum ve maksimum bahisler masanın üzerinde ve oyun sırasında gösterilir.</p><p>Kazançlar ödeme tablosuna göre ödenir. Ödeme tablosunu kontrol etmek için, "Ödemeler" düğmesine tıklayın.</p><p>Oyun istatistiklerini görmek için, "Sayılar" düğmesine tıklayın. "Hot" gelen sayılar azalan sırayla en sık kazanan beş numarayı gösterir. "Cold" gelen sayılar en nadir kazanan beş sayıyı gösterir. "Cold" gelen ve "Hot" gelen sayıların altındaki gri sayılar, sayının sabit bir tur sayısında kaç kez döndürüldüğünü gösterir.</p>
+betting_process	Bahis Süreci
+how_roulette_2	<p>Bahis koyulabilecek yerlerin üzerine gelindiğinde vurgulanır.</p><p>Çip, seçilen alana yerleştirildiğinde bahis koyulmuş olur.</p><p>Bahis seçmek için, seçtiğiniz çip değerine tıklayın ve masanızdaki yeri seçin.</p><p>Tüm bahis versiyonlarını görmek için, vurgulu oka tıklayın.</p><p>Tüm bahisleri temizlemek için, "iptal" düğmesine tıklayın.</p><p>Bahsin boyutu masa sınırını aşarsa, bahis otomatik olarak mümkün olan en yüksek miktara ayarlanır. Topu döndürmek için, "Çevir" tuşuna tıklayın.</p><p>Top kazanan numarada durduğunda, koyulan bahislere göre ödemeler yapılır.</p>
+roulette_bets	Roulette Track'teki bahisler
+how_roulette_3	Roulette with Track 'de dış bahisler, iç bahisler ve bahisleri gör özellikleri vardır. Tüm bahisler ödemelerine göre değişiklik gösterir. Ödeme bölümünde her bahsin ödemesini kontrol edin.
+outside_bets	DIŞ BAHİSLER
+how_roulette_4	<p>Dış bahisler tek seferde on iki veya on sekiz sayılarının bulunduğu bölümlere koyulur.</p><p>Bir dış bahis yerleştirmek için, çiplerinizi masanın seçilen bölümüne koyun.</p><p>1 to 18/19 to 36 (Even Chances)</p><p>Bu bahisler iki büyük sayı grubu üzerine koyulur. Birincisi 1 ile 18 arasındaki, İkincisi de 19 ile 36 arasındaki sayıları içerir. Ödeme 1:1'dir.</p><p>Even/Odd (Even Chances)</p><p>Roulette kurallarına göre bu bahisler eşlik kategorisine göre ayrılan sayı gruplarına koyulur. Ödeme 1:1'dir.</p><p>Kırmızı/Siyah (Even Chances)</p><p>Bahisler sayıların rengine göre koyulur. Ödeme 1:1'dir.</p><p>Column</p><p>Üç tip bahis vardır. Her biri 12 cep içeren gruplara koyulur. Kolon bahisleri, "2 to 1" olarak işaretlenen ana masa düzenindeki üç kolondan birinin üzerine koyulabilir. Ödeme 2:l'dir.</p><p>Dozen</p><p>Dozen bahisleri masa düzeninde "1st 12", "2nd 12" ve "3rd 12" olarak işaretlenen 3 sayı grubu üzerine koyulur. Ödeme 2:l'dir.</p>
+inside_bets	İÇ BAHİSLER
+how_roulette_5	<p>Straight bahsi</p><p>Straight bahsi masa düzeni üzerindeki tek sayılardan herhangi birinin üzerine koyulabilir. Ödeme 35:1'dir.</p><p>Split bahsi</p><p>Split bahsi masa düzeninde yan yana yer alan iki bitişik sayı üzerine koyulur. Ödeme 17:l'dir.</p><p>Street bahsi</p><p>Street bahsi sıralı üç sayıya koyulur. Ödeme ll:l'dir.</p><p>Corner</p><p>Corner bahsi dört bitişik sayıya koyulur. Ödeme 8:l'dir.</p><p>Six-line</p><p>Six-line bahsi altı bitişik sayıya koyulur. Ödeme 5:l'dir.</p>
+call_bets	BAHİSLERİ GÖR
+how_roulette_6	Bahisleri gör rulet tekerleğindeki sayıların sırasına göre koyulur.
+how_roulette_7	<p>Zero Spiel bahsi</p><p>Zero Spiel bahsi 15,32,0,26, 3,35 ve 12 numaralarının üzerine koyulur. Bu bahsi koyarken 4 çip kullanılır.</p><p>Çiplerden bir tanesi 35:1 ödeme ile 26 siyahın üzerine koyulur, kalan 3 tanesi ise 0 ve 3,35 ve 32,12 ve 15 olarak eşli gruplara dağıtılır. Ödeme 17:l'dir.</p><p>Series 0/2/3</p><p>Bu bahis aşağıdaki sayıları içerir: 15, 32, 0, 26, 3, 35,12, 25, 2, 21, 4,19, 28, 7, 29,18 ve 22.</p><p>Bu bahis için 9 çip kullanılır. Aşağıdaki şekilde dağıtılır:</p><p>0, 2, 3 sayıları 11:1 ödeme ile iki çip kullanır.</p><p>4 ve 7,12 ve 15,18 ve 21,19 ve 22, 32 ve 35 olarak eşli gruplar birer çip kullanır (toplamda 5 çip). Ödeme 17:l'dir.</p><p>25, 26, 28 ve 29 sayı grupları iki çip kullanır. Ödeme 8:l'dir.</p><p>Orphelins</p><p>Orphelins bahis, 6, 34,17,9,31,14, 20, ve 1 sayılarını kullanır. Bu bahsi koyarken 5 çip kullanılır. Çiplerden bir tanesi 35:1 ödeme ile Tin üzerine koyulur, kalan 4 tanesi ise 6 ve 9,14 ve 17,17 ve 20, 31 ve 34 olarak eşli gruplara dağıtılır.</p><p>Ödeme 17:l'dir. Sonucun siyah 17 olması halinde, ödeme 35:l'dir.</p><p>Series 5/8</p><p>Series 5/8 bet aşağıdaki sayılara koyulur: 33,16,24, 5,10, 23,8, 30,11, 36,13 ve 27. Bu bahsi koyarken 6 çip kullanılır. Bu çipler aşağıdaki sayı çiftlerine koyulur: 5 ve 8,10 ve 11,13 ve 16, 23 ve 24, 27 ve 30, 33 ve 36. Ödeme 17:l'dir.</p><p>Neighbours</p><p>Bahis beş çip kullanarak bir sayı ve bitişiğindeki 4 sayının üzerine koyulur. Ödeme 35:l'dir. Ör. Bahis 27'ye koyulur ve kazanırsa, bitişiğindeki 34, 6,13, 36 sayıları da kazandı olarak kabul edilir.</p>
